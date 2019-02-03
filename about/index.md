@@ -23,13 +23,13 @@ Engineer's degree (Integrated Master)
 
  Information and Communication Systems Engineering
  
-- Specializations:
+Specializations:
 
-Security of Information and Communication Systems
+-Security of Information and Communication Systems
 
-Computer Systems and Networks
+-Computer Systems and Networks
 
--Thesis:
+Thesis:
 
 «Design and development of mobile games to support people with memory problems »
 
