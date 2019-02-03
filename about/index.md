@@ -14,7 +14,7 @@ comments: false
 * Java
 * Linux
 * Networks
-* Sexurity
+* Security
 ## Preview
 
 {% capture images %}
