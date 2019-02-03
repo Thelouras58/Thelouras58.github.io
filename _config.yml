@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Thelouras
+bio:                'Programmer'
+description:        "Java|Android|Linux|Networks|Security"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -37,20 +37,20 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+email:thelouras058@gmail.com
+twitter:            ThelourasK
+#facebook:           username
+github-url:         https://github.com/Thelouras58/
+stackoverflow:     5493355/thelouras  
+linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
@@ -58,7 +58,7 @@ steam:              username
 #weibo:             username
 #flickr:            username
 #codepen:           username
-#keybase:           username
+keybase:            thelouras
 #xmpp:              username@server.com
 #hackernews:        username
 
