@@ -17,17 +17,16 @@ comments: false
 * Security
 
 ## Education
-University of the Aegean
+University of the Aegean, Information and Communication Systems Engineering
 
 Engineer's degree (Integrated Master)
 
- Information and Communication Systems Engineering
  
 Specializations:
 
--Security of Information and Communication Systems
+- Security of Information and Communication Systems
 
--Computer Systems and Networks
+- Computer Systems and Networks
 
 Thesis:
 
