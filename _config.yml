@@ -30,14 +30,15 @@ disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+
+  #google:
   #plus:            #username
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:thelouras058@gmail.com
+email: thelouras058@gmail.com
 twitter:            ThelourasK
 #facebook:           username
 github-url:         https://github.com/Thelouras58/
