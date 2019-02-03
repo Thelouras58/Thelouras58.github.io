@@ -34,7 +34,7 @@ sass:
 
   #google:
   #plus:            #username
-  #analytics:
+  analytics:        UA-96540683-2
   #verify:
   #ad-client:
   #ad-slot:
