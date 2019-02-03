@@ -1,5 +1,15 @@
 # Site navigation links
 
+- title: Home
+  url: /
+
+- title: Blog
+  url: /blog/
+
 - title: Projects
   url: /projects/
-  
+
+- title: About
+  url: /about/
+
+
