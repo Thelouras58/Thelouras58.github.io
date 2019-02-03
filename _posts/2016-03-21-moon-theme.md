@@ -16,11 +16,14 @@ comments: true
 
      
 This project aims at practicing people with memory problems (e.g. elderly people, people on the verge of Alzheimer's disease) through a variety of games. 
+
 There are 15 games that are divided into 4 categories depending on what cognitive skill will be practiced. 
+
 Categories are: 
 - memory 
 - problem solving
 - user attention
 - brain processing speed
 The app has been implemented for Android Tablets.
+
 supervisor professor: Goumopoulos Christos
