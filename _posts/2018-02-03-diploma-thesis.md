@@ -24,6 +24,7 @@ Categories are:
 - problem solving
 - user attention
 - brain processing speed
+
 The app has been implemented for Android Tablets.
 
 supervisor professor: Goumopoulos Christos
