@@ -2,7 +2,7 @@
 title:              Thelouras
 bio:                'Software Developer'
 description:        
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/icon.png'
 background:         'assets/img/backg.jpg'
