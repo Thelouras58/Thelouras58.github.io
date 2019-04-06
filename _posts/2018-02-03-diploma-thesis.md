@@ -34,4 +34,4 @@ The last step was the evaluation of the app by users to whom the app is addresse
 
 Finally, through the results of the evaluation we came up with conclusions to improve the usability of the application.
 
-supervisor professor: Goumopoulos Christos
+supervisor professor: [Goumopoulos Christos](https://scholar.google.gr/citations?user=5C9JHkUAAAAJ)
