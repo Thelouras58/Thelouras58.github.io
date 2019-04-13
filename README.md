@@ -1,3 +1,3 @@
-My personal [Site](https://thelouras58.github.io/).
+My personal [Site](http://thelouras.gr).
 
 About Me | Projects | Blog
