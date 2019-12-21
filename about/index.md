@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Thelouras Kostas
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+tags: [about, bio, programming]
+date: 2018
 comments: false
 ---
     
