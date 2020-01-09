@@ -2,7 +2,7 @@
 layout: post
 title:  "Weather Ball"
 date:   2018/01/16
-excerpt: "My first Android game"
+excerpt: "My first Android Game, prototype"
 project: true
 tag:
 - android 
