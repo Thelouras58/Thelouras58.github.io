@@ -9,6 +9,7 @@ comments: false
 <center><a><b>Software Developer | Undergratuate Student </b></a> </center>
 
 ## Skills
+
 * Programming
 * Android
 * Java
@@ -17,6 +18,7 @@ comments: false
 * Security
 
 ## Education
+
 University of the Aegean, Information and Communication Systems Engineering
 
 Engineer's degree (Integrated Master)
@@ -28,9 +30,9 @@ Specializations:
 
 - Computer Systems and Networks
 
-Thesis:
+[Thesis](http://thelouras.gr/diploma-thesis/):
 
-«Design and development of mobile games to support people with memory problems »
+«Design and development of mobile games to support people with memory problems»
 
 supervisor: Goumopoulos Christos
 
