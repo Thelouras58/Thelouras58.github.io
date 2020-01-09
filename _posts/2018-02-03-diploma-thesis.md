@@ -12,7 +12,7 @@ tag:
 comments: true
 ---
 
-You can read the full report of the thesis in Greek  <span style="color:blue">[here](https://drive.google.com/file/d/1pqMQRbw9K097PA07t6QHAkgKIJYU_Ji2/view?usp=sharing)</span>
+You can read the full report of the thesis in Greek  [**here**](https://drive.google.com/file/d/1pqMQRbw9K097PA07t6QHAkgKIJYU_Ji2/view?usp=sharing)
 
 This project aims at practicing people with memory problems (e.g. elderly people, people on the verge of Alzheimer's disease) through a variety of games. 
 
