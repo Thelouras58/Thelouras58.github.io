@@ -24,8 +24,8 @@ The player can move a ball with the use of pitch/roll/azimuth and he must avoid 
 So why the name is weather ball?
 A nice feature is that the levels of the game adapt in the real-life weather conditions.
 
-So what we used a lot of technologies and android programming techniques to develop this game.
-Let's describe in short what we did: 
+To develop this game we used a lot of technologies and android programming techniques.
+Let's describe in short what we used: 
 
 For the moving of the ball, we use the rotation matrix from the sensor manager to get the roll.
 
