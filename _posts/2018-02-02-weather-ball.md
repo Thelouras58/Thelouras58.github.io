@@ -38,6 +38,10 @@ We use 2 databases. One local SQLite on the phone and one remote firebase NoSQL.
 For version control we used Github.
 Adobe Photoshop and Audacity for the assets 
 
+So, in the end of this journey i learned a tone of thing about Android and mobile app development.
+
+One of the things i learned is that if I want to create Games the right way I must learn Unity !! 
+
 
 
 
