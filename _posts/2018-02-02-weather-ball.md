@@ -37,7 +37,7 @@ For version control we used Github.
 Adobe Photoshop for the GUI.
 Audacity for the sounds.
 
-You can read a full review of the project and the application in Greek [here](https://drive.google.com/open?id=1y8Mw7jFEvIboLpTVxipmXiU-XxDtsov-).
+You can read the full revportof the project [here](https://drive.google.com/open?id=1y8Mw7jFEvIboLpTVxipmXiU-XxDtsov-)(Greek).
 
 
 
