@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weather Ball"
-date:   2020/01/09 
+date:   2019/01/10 
 excerpt: "My first Android game"
 project: true
 tag:
