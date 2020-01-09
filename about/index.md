@@ -20,8 +20,6 @@ comments: false
 
 ## Experience
 
-All of my experience is from university and from my personal training.
-
 So, i love coding and that i did. I get all the  courses that had programming projects.
 
 During my studies, i created a lot of applications. 
