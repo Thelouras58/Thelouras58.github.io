@@ -20,7 +20,7 @@ comments: false
 
 ## Experience
 
-So, i love coding and that i did. I get all the  courses that had programming projects.
+So, i love coding and that i did. I got all the  courses that had programming projects.
 
 During my studies, i created a lot of applications. 
 
@@ -54,8 +54,3 @@ Specializations:
 «Design and development of mobile games to support people with memory problems»
 
 supervisor: Goumopoulos Christos
-
-
-
-
-
