@@ -11,7 +11,8 @@ tag:
 - android
 comments: true
 ---
-     
+
+You can read the full report of the thesis in Greek  [here](https://drive.google.com/file/d/1pqMQRbw9K097PA07t6QHAkgKIJYU_Ji2/view?usp=sharing)
 This project aims at practicing people with memory problems (e.g. elderly people, people on the verge of Alzheimer's disease) through a variety of games. 
 
 There was designed and implemented 15 games that are divided into 4 categories depending on what cognitive skills will be practiced. 
@@ -37,15 +38,14 @@ The purpose of the study was to understand how to design computer games that the
 
 ### UX Design and technical requirements 
 
-In this stage, we designed the UX of the application with the help of what we learn of the previous stage.
+In this stage, we designed the UX of the application with the help of what we learn on the previous stage.
 Also here is the time for the technical requirements and the analyze of the application 
 
 
 ### Implementation 
 
-This stage was the implementation of the application. 
 The application was implemented for Android platforms with tablet-oriented graphics.
-A SQLite database has been used.
+A local SQLite database has been used.
 Implementation was the most time-consuming stage.
 
 ### Testing
