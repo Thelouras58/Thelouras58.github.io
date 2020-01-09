@@ -8,7 +8,7 @@ comments: false
     
 <center><a><b> Software Developer | Undergratuate Student </b></a> </center>
 
-## Skills
+### Skills
 
 * Programming
 * OOP
@@ -18,7 +18,7 @@ comments: false
 * Networks
 * Security
 
-## Experience
+### Experience
 
 So, i love coding and that i did. I got all the  courses that had programming projects.
 
@@ -37,7 +37,7 @@ Some lab projects that worth a look are :
 - **[Ready to Lock](https://github.com/Thelouras58/ReadyToLock)** (Android)
 - **[RSA implementation](https://gist.github.com/Thelouras58/a3b04a3df0d167743084ff94442f52d8)** (C)
 
-## Education
+### Education
 
 University of the Aegean, Information and Communication Systems Engineering
 
