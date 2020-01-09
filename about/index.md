@@ -2,7 +2,7 @@
 layout: page
 title: Thelouras Kostas
 tags: [about, bio, programming]
-date: 2018
+date: 2020
 comments: false
 ---
     
