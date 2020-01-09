@@ -49,7 +49,7 @@ Specializations:
 
 - Computer Systems and Networks
 
-[Thesis](http://thelouras.gr/diploma-thesis/):
+**[Thesis](http://thelouras.gr/diploma-thesis/)**:
 
 «Design and development of mobile games to support people with memory problems»
 
