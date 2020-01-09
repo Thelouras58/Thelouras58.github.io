@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /weatherball/
 title:  "Weather Ball"
 date:   2018/15/12-2019/10/01
 excerpt: "My first Android game"
