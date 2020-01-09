@@ -51,7 +51,7 @@ Implementation was the most time-consuming stage.
 
 Testing
 
-Now it's time to publish the beta off the application  and give it to real users.
+Now it's time to publish the beta of the application  and give it to real users.
 Ten users used  the app and we collected some data!
 To collect data from the evaluation we used two methods passive user observation and  questionnaires.
 
