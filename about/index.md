@@ -8,6 +8,16 @@ comments: false
     
 <center><a><b>Software Developer | Undergratuate Student </b></a> </center>
 
+## Skills
+
+* Programming
+* OOP
+* Android
+* Java
+* Linux
+* Networks
+* Security
+
 ## Experience
 
 All of my experience is from university and from my personal training.
@@ -26,16 +36,6 @@ Some lab projects that worth a look are :
 - [Password Manager](https://github.com/Thelouras58/PasswordManager)(Java)
 - [Ready to Lock](https://github.com/Thelouras58/ReadyToLock)(Android)
 - [RSA implementation](https://gist.github.com/Thelouras58/a3b04a3df0d167743084ff94442f52d8)(C)
-
-## Skills
-
-* Programming
-* OOP
-* Android
-* Java
-* Linux
-* Networks
-* Security
 
 ## Education
 
