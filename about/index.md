@@ -32,10 +32,10 @@ Some lab projects that worth a look are :
 
 - Crypto Game (Java)
 - Linkedin like site (PHP)
-- [**Weather Ball**] (http://thelouras.gr/weather-ball/)(Android)
-- [**Password Manager**] (https://github.com/Thelouras58/PasswordManager)(Java)
-- [**Ready to Lock**] (https://github.com/Thelouras58/ReadyToLock)(Android)
-- [**RSA implementation**] (https://gist.github.com/Thelouras58/a3b04a3df0d167743084ff94442f52d8)(C)
+- **[Weather Ball] (http://thelouras.gr/weather-ball/)**(Android)
+- **[Password Manager] (https://github.com/Thelouras58/PasswordManager)**(Java)
+- **[Ready to Lock] (https://github.com/Thelouras58/ReadyToLock)**(Android)
+- **[RSA implementation] (https://gist.github.com/Thelouras58/a3b04a3df0d167743084ff94442f52d8)**(C)
 
 ## Education
 
