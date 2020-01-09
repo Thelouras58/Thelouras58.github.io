@@ -14,6 +14,8 @@ comments: true
      
 ## My first Android game
 
+You can read the full report of the project in Greek [**here**](https://drive.google.com/open?id=1y8Mw7jFEvIboLpTVxipmXiU-XxDtsov-).
+
 In the last lab project of the university course "Design and Development of Mobile Applications", we were free to make whatever application we want. In this application, we must use databases, sensors, APIs, etc. 
 
 So we decided to make a game!
@@ -37,7 +39,7 @@ For version control we used Github.
 Adobe Photoshop for the GUI.
 Audacity for the sounds.
 
-You can read the full revportof the project [here](https://drive.google.com/open?id=1y8Mw7jFEvIboLpTVxipmXiU-XxDtsov-)(Greek).
+
 
 
 
