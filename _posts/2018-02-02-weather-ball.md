@@ -36,8 +36,7 @@ For the weather feature, we get from Geolocation the coordinates of the phone an
 We use 2 databases. One local SQLite on the phone and one remote firebase NoSQL.
 
 For version control we used Github.
-Adobe Photoshop for the GUI.
-Audacity for the sounds.
+Adobe Photoshop and Audacity for the assets 
 
 
 
