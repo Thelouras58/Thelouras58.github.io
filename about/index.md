@@ -24,7 +24,9 @@ All of my experience is from university and from my personal training.
 
 So, i love coding and that i did. I get all the  courses that had programming projects.
 
-During my studies, i made a lot of applications with a lot of technologies. The main technologies that i used are Java, Android, PHP, Python, C++, C, Prolog, Sqlite, PLsql and more.
+During my studies, i created a lot of applications. 
+
+The main technologies that i used are Java, Android, PHP, Python, C++, C, Sqlite, PLsql and more.
 
 But the technologies that i got more involved are Java and Android.
 
