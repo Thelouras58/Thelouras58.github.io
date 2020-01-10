@@ -20,7 +20,7 @@ comments: false
 
 ### Experience
 
-So, i love coding and that i did. I got all the  courses that had programming projects.
+So, i love coding and that i did. I took all the  courses that had programming projects.
 
 During my studies, i created a lot of applications. 
 
