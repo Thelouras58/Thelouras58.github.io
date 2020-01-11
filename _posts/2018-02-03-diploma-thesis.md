@@ -14,7 +14,7 @@ comments: true
 
 You can read the full report of the thesis in Greek  **[here](https://drive.google.com/file/d/1pqMQRbw9K097PA07t6QHAkgKIJYU_Ji2/view?usp=sharing)**
 
-This project aims at practicing people with memory problems (e.g. elderly people, people on the verge of Alzheimer's disease) through a variety of games. 
+This project aims to practice the cognitive skills of people with memory problems (e.g. elderly people, people on the verge of Alzheimer's disease) through a variety of games.
 
 There was designed and implemented 15 games that are divided into 4 categories depending on what cognitive skills will be practiced. 
 
