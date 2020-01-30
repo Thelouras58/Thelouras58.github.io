@@ -16,9 +16,8 @@ You can read the full report of the thesis in Greek  **[here](https://drive.goog
 
 This project aims to practice the cognitive skills of people with memory problems (e.g. elderly people, people on the verge of Alzheimer's disease) through a variety of games.
 
-There was designed and implemented 15 games that are divided into 4 categories depending on what cognitive skills will be "><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
+There was designed and implemented 15 games that are divided into 4 categories depending on what cognitive skills will be practiced
 	
-
 <figure> 
         <a href="https://drive.google.com/file/d/16T8nVRTlVVYnEq9DzeAEwYgZfe7tmxne/view?usp=drivesdk"><img src="https://drive.google.com/file/d/16T8nVRTlVVYnEq9DzeAEwYgZfe7tmxne/view?usp=drivesdk"></a>
 	<figcaption><a href="" title=" "</a></figcaption>
