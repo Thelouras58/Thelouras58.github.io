@@ -24,7 +24,7 @@ There was designed and implemented 15 games that are divided into 4 categories d
 	<figcaption><a href="" title=" "</a></figcaption>
 </figure>
 
-</figure>
+
 The diploma thesis was held in five stages.
 
 - Research 
