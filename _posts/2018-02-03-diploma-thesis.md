@@ -49,7 +49,7 @@ A local SQLite database has been used.
 
 The technologies that have been used are 
 
-Android SDK
+- Android SDK
 - Java
 - XML
 - SQLite
