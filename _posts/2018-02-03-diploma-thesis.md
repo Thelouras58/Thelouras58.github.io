@@ -16,10 +16,12 @@ You can read the full report of the thesis in Greek  **[here](https://drive.goog
 
 This project aims to practice the cognitive skills of people with memory problems (e.g. elderly people, people on the verge of Alzheimer's disease) through a variety of games.
 
-<img src="https://i.imgur.com/A4fUzTA.jpg" />
 
 There was designed and implemented 15 games that are divided into 4 categories depending on what cognitive skills will be practiced
  
+<img src="https://i.imgur.com/A4fUzTA.jpg" />
+
+
 The diploma thesis was held in five stages.
 
 - Research 
