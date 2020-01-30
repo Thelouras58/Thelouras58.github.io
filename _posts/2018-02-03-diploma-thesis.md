@@ -20,7 +20,7 @@ There was designed and implemented 15 games that are divided into 4 categories d
 	
 <figure> 
         <a href="https://drive.google.com/file/d/16T8nVRTlVVYnEq9DzeAEwYgZfe7tmxne/view?usp=drivesdk"><img src="https://drive.google.com/file/d/16T8nVRTlVVYnEq9DzeAEwYgZfe7tmxne/view?usp=drivesdk"></a>
-	<figcaption><a href="" title=" "</a></figcaption>
+	<figcaption><a href=" https://drive.google.com/file/d/16T8nVRTlVVYnEq9DzeAEwYgZfe7tmxne/view?usp=drivesdk" title=" "</a></figcaption>
 </figure>
 
 
