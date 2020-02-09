@@ -25,7 +25,7 @@ There was designed and implemented 15 games that are divided into 4 cognitive sk
    - Brain processing speed 
 
 <br>
-<br>
+
 The diploma thesis was held in five stages.
 
    - Research 
