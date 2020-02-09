@@ -32,9 +32,7 @@ The diploma thesis was held in five stages.
 - Implementation 
 - Testing 
 - Refactor 
-
 <br><br>
-
 ### Research 
 
 In this stage, we did a bibliographic study about serious games and their association with the problem of mild cognitive impairment(MCI).
