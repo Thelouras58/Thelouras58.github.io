@@ -19,10 +19,10 @@ This project aims to practice the cognitive skills of people with memory problem
 
 There was designed and implemented 15 games that are divided into 4 cognitive skills 
 
-   - Problem Solving 
-   - Memory 
-   - Attention 
-   - Brain processing speed 
+      - Problem Solving 
+      - Memory 
+      - Attention 
+      - Brain processing speed 
 
 <br>
 
