@@ -20,9 +20,13 @@ This project aims to practice the cognitive skills of people with memory problem
 There was designed and implemented 15 games that are divided into 4 cognitive skills 
 
 &nbsp;&nbsp;- Problem Solving 
+
 &nbsp;&nbsp;- Memory 
+
 &nbsp;&nbsp;- Attention 
+
 &nbsp;&nbsp;- Brain processing speed 
+
 <br>
 <br>
 The diploma thesis was held in five stages.
