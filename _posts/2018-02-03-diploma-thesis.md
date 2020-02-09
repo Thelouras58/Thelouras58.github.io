@@ -5,10 +5,10 @@ date:   2019/02/02
 excerpt: "Design and development of mobile games to support people with memory problems"
 project: true
 tag:
-- thesis
-- cognitive skills
-- serious games
-- android
+&nbsp;&nbsp;- thesis
+&nbsp;&nbsp;- cognitive skills
+&nbsp;&nbsp;- serious games
+&nbsp;&nbsp;- android
 comments: true
 ---
 
@@ -19,10 +19,10 @@ This project aims to practice the cognitive skills of people with memory problem
 
 There was designed and implemented 15 games that are divided into 4 cognitive skills 
 
-- Problem Solving 
-- Memory 
-- Attention 
-- Brain processing speed 
+&nbsp;&nbsp;- Problem Solving 
+&nbsp;&nbsp;- Memory 
+&nbsp;&nbsp;- Attention 
+&nbsp;&nbsp;- Brain processing speed 
 <br>
 <br>
 The diploma thesis was held in five stages.
