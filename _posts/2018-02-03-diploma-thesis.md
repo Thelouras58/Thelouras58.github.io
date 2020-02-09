@@ -28,11 +28,11 @@ There was designed and implemented 15 games that are divided into 4 cognitive sk
 
 The diploma thesis was held in five stages.
 
-   - Research 
-   - UX Design and technical requirements 
-   - Implementation 
-   - Testing 
-   - Refactor 
+      - Research 
+      - UX Design and technical requirements 
+      - Implementation 
+      - Testing 
+      - Refactor 
 <br><br>
 ### Research 
 
@@ -53,11 +53,11 @@ A local SQLite database has been used.
 
 The technologies that have been used are:
 
-  - Android SDK
-  - Java
-  - XML
-  - SQLite
-  - Git
+     - Android SDK
+     - Java
+     - XML
+     - SQLite
+     - Git
 
 
 ### Testing
