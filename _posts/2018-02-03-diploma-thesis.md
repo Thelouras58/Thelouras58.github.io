@@ -51,13 +51,13 @@ Also  In this stage we did the analysis of the application. Functional and no fu
 The application was implemented for Android platforms with tablet-oriented graphics.
 A local SQLite database has been used.
 
-The technologies that have been used are 
+The technologies that have been used are:
 
-- Android SDK
-- Java
-- XML
-- SQLite
-- Git
+  - Android SDK
+  - Java
+  - XML
+  - SQLite
+  - Git
 
 
 ### Testing
