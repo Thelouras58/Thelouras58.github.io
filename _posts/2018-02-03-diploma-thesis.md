@@ -72,4 +72,4 @@ Finally, through the results of the evaluation, we came up with conclusions to i
 So, a massive refactor has been done.
 We redesigned the UX of the app, the usability and some bugs in the gameplays.
 
-supervisor professor: [Goumopoulos Christos](https://scholar.google.gr/citations?user=5C9JHkUAAAAJ)
+supervisor professor: [Mr. Goumopoulos Christos](https://scholar.google.gr/citations?user=5C9JHkUAAAAJ)
