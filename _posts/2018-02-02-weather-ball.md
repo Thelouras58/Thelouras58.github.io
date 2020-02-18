@@ -32,7 +32,7 @@ For the movement of the ball, we use the rotation matrix from the sensor manager
 
 For the weather feature, we get from Geolocation the coordinates of the phone and send them to OpenWeatherApi. The open weather API returns the weather in this location.
 
-We are using 2 databases. One local SQLite on the phone and one remote firebase NoSQL.
+We are using 2 databases. One local SQLite and one remote firebase NoSQL.
 
 For version control we used Github.
 Adobe Photoshop and Audacity for the assets 
