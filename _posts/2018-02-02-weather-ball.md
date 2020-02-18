@@ -16,7 +16,7 @@ comments: true
 
 You can read the full report of the project in Greek **[here](https://drive.google.com/open?id=1y8Mw7jFEvIboLpTVxipmXiU-XxDtsov-)**.
 
-The last lab project of the course "Design and Development of Mobile Applications", we are free to make whatever application we want. In this application, we must use databases, sensors, APIs, etc. 
+In the last lab project of the course "Design and Development of Mobile Applications", we are free to make whatever application we want. In this application, we must use databases, sensors, APIs, etc. 
 
 So we decided to make a game!
 
