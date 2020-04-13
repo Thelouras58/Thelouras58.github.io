@@ -12,7 +12,9 @@ tag:
 comments: true
 ---
 
-## My first timelapse of random coding moments!
+## Timelapse #1
+
+My first timelapse of random coding moments
 
 Enjoy!
 
