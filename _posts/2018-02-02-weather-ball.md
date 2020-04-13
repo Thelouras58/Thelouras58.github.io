@@ -25,7 +25,7 @@ The player can move a ball and he must avoid obstacles and catch coins.
 So, why the name is weather ball?
 A nice feature is that the levels can adapt in real-life weather conditions.
 
-Some technologies that we used to develope the app.
+Some technologies that we used to develop the app.
 
 For the movement of the ball, we use the rotation matrix from the sensor manager to get the roll.
 
