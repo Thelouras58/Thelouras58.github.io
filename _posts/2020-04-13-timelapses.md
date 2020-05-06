@@ -20,6 +20,8 @@ Enjoy!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G9fKuOWWQhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
 ## Timelapse #2 
 
 A timelapse of making an Andoid Application based on my **[Diploma Thesis](http://thelouras.gr/diploma-thesis/)**:
