@@ -12,9 +12,6 @@ tag:
 comments: true
 ---
 
-
-<h1>Coding Time lapses of random programming moments.</h1>
-
 <h2>Timelapse #1</h2>
 
 My first timelapse, any feedback is welcome!
