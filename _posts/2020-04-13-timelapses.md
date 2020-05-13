@@ -14,7 +14,7 @@ comments: true
 
 <h1>Timelapse #1</h1>
 
-<h2>My first timelapse of random coding moments</h2>
+My first timelapse of random coding moments
 
 Enjoy!
 
@@ -24,13 +24,13 @@ Enjoy!
 
 <h1> Timelapse #2 </h1>
 
-<h2>A timelapse of making an Andoid Application based on my **[Diploma Thesis](http://thelouras.gr/diploma-thesis/)**</h2>
+A timelapse of making an Andoid Application based on my **[Diploma Thesis](http://thelouras.gr/diploma-thesis/)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b0yxfRQhJCw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <h1> Timelapse #3 </h1>
 
-<h2> One more time lapse of making an Android Application based on my **[Diploma Thesis](http://thelouras.gr/diploma-thesis/)**</h2>
+One more time lapse of making an Android Application based on my **[Diploma Thesis](http://thelouras.gr/diploma-thesis/)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cu4fMz4MV1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
