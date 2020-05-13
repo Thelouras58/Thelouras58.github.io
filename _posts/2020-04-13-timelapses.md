@@ -24,6 +24,13 @@ Enjoy!
 
 ## Timelapse #2 
 
-A timelapse of making an Andoid Application based on my **[Diploma Thesis](http://thelouras.gr/diploma-thesis/)**:
+A timelapse of making an Andoid Application based on my **[Diploma Thesis](http://thelouras.gr/diploma-thesis/)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b0yxfRQhJCw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Timelapse #3
+
+One more time lapse of making an Android Application based on my **[Diploma Thesis](http://thelouras.gr/diploma-thesis/)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cu4fMz4MV1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
