@@ -11,8 +11,9 @@ tag:
 - programming timelapse
 comments: true
 ---
+<h1>My programming time lapses. </h1>
 
-<h1>Timelapse #1</h1>
+<h2>Timelapse #1</h2>
 
 My first timelapse of random coding moments
 
@@ -22,14 +23,14 @@ Enjoy!
 
 
 
-<h1> Timelapse #2 </h1>
+<h2> Timelapse #2 </h2>
 
 A timelapse of making an Andoid Application based on my **[Diploma Thesis](http://thelouras.gr/diploma-thesis/)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b0yxfRQhJCw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<h1> Timelapse #3 </h1>
+<h2> Timelapse #3 </h2>
 
 One more time lapse of making an Android Application based on my **[Diploma Thesis](http://thelouras.gr/diploma-thesis/)**
 
