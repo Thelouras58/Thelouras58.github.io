@@ -12,7 +12,7 @@ tag:
 comments: true
 ---
 
-## Timelapse #1
+<h1>## Timelapse #1</h1>
 
 My first timelapse of random coding moments
 
