@@ -11,12 +11,13 @@ tag:
 - programming timelapse
 comments: true
 ---
+
+
 <h1>Coding Time lapses of random programming moments.</h1>
-<h2>Mainly use, Android, kotlin, Java. </h2>
 
 <h2>Timelapse #1</h2>
 
-My first timelapse of random coding moments
+My first timelapse, any feedback is welcome!
 
 Enjoy!
 
