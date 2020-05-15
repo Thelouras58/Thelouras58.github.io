@@ -13,14 +13,13 @@ layout: compress
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-96540683-2');
 </script>
   
    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/ff5de517713b893e23df8f364/d0912d7b5bea545b36cb3829b.js");
    </script>
     {% include head.html %}
-   
+    {% include cookie-consent.html %}
 </head>
 <body>
     {% include nav.html %}
@@ -60,6 +59,6 @@ layout: compress
     </header>
     {% include footer.html %}
     {% include scripts.html %} 
-    {% include cookie-consent.html %}
+  
 </body>
 </html>
