@@ -6,7 +6,7 @@ date: 2020
 comments: false
 ---
     
-<center><a><b> Software Developer | Undergratuate Student </b></a> </center>
+<center><a><b> Software Developer </b></a> </center>
 
 ### Skills
 
