@@ -19,15 +19,16 @@ The main technologies that i used are Java, Android, PHP, Python, C++, C, Sqlite
 I got more involved with Java and Android
 
 Some lab projects that are worth taking a look:
-       * Crypto Game (Java)
-       * Linkedin like site (PHP)
-       * **[Weather Ball](http://thelouras.gr/weather-ball/)** (Android)
-       * **[Password Manager](https://github.com/Thelouras58/PasswordManager)** (Java)
-       * **[Ready to Lock](https://github.com/Thelouras58/ReadyToLock)** (Android)
-       * **[RSA implementation](https://gist.github.com/Thelouras58/a3b04a3df0d167743084ff94442f52d8)** (C)
+
+* Crypto Game (Java)
+* Linkedin like site (PHP)
+* **[Weather Ball](http://thelouras.gr/weather-ball/)** (Android)
+* **[Password Manager](https://github.com/Thelouras58/PasswordManager)** (Java)
+* **[Ready to Lock](https://github.com/Thelouras58/ReadyToLock)** (Android)
+* **[RSA implementation](https://gist.github.com/Thelouras58/a3b04a3df0d167743084ff94442f52d8)** (C)
 
    
-   
+  
 ## Education
 
 University of the Aegean, Information and Communication Systems Engineering
@@ -35,8 +36,9 @@ University of the Aegean, Information and Communication Systems Engineering
 Engineer's degree (Integrated Master)
 
 Specializations:
-    * Security of Information and Communication Systems
-    * Computer Systems and Networks
+
+* Security of Information and Communication Systems
+* Computer Systems and Networks
 
 Thesis **[(http://thelouras.gr/diploma-thesis/)]**:
 
