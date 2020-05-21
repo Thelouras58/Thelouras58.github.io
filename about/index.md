@@ -37,8 +37,8 @@ Engineer's degree (Integrated Master)
 
 Specializations:
 
-* &nbsp;&nbsp;&nbsp;&nbsp;Security of Information and Communication Systems
-* &nbsp;&nbsp;&nbsp;&nbsp;Computer Systems and Networks
+* Security of Information and Communication Systems
+* Computer Systems and Networks
 
 Thesis **[(http://thelouras.gr/diploma-thesis/)](http://thelouras.gr/diploma-thesis/)**:
 
@@ -48,11 +48,11 @@ supervisor: Goumopoulos Christos
 
 
 ## Skills
-* ### &nbsp;&nbsp;Programming
-* &nbsp;&nbsp;&nbsp;Object Oriented Programming
-* &nbsp;&nbsp;&nbsp;Android SDK
-* &nbsp;&nbsp;&nbsp;Java
-* &nbsp;&nbsp;&nbsp;Kotlin 
+* ### Programming
+* Object Oriented Programming
+* Android SDK
+* Java
+* Kotlin 
 * ### Databases 
 * SQLite
 * My Sql
