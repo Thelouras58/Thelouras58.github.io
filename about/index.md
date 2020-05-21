@@ -28,6 +28,25 @@ Some lab projects that are worth taking a look:
    * **[RSA implementation](https://gist.github.com/Thelouras58/a3b04a3df0d167743084ff94442f52d8)** (C)
    
    
+## Education
+
+University of the Aegean, Information and Communication Systems Engineering
+
+Engineer's degree (Integrated Master)
+
+Specializations:
+
+* Security of Information and Communication Systems
+
+* Computer Systems and Networks
+
+Thesis **[(http://thelouras.gr/diploma-thesis/)]**:
+
+«Design and development of mobile games to support people with memory problems»
+
+supervisor: Goumopoulos Christos
+
+
 ## Skills
 * ### Programming
 * Object Oriented Programming
@@ -64,21 +83,3 @@ Some lab projects that are worth taking a look:
 * Spring Boot
 * Java RMI
 
-
-## Education
-
-University of the Aegean, Information and Communication Systems Engineering
-
-Engineer's degree (Integrated Master)
-
-Specializations:
-
-* Security of Information and Communication Systems
-
-* Computer Systems and Networks
-
-Thesis **[(http://thelouras.gr/diploma-thesis/)]**:
-
-«Design and development of mobile games to support people with memory problems»
-
-supervisor: Goumopoulos Christos
