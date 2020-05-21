@@ -29,37 +29,36 @@ Some lab projects that are worth taking a look:
    
    ## Skills
 * ### Programming
-   * Object Oriented Programming
-   * Android SDK
-   * Java
-   * Kotlin
+    * Object Oriented Programming
+    * Android SDK
+    * Java
+    * Kotlin
  * ### Databases
-   * SQLite
-   * My Sql
-   * Maria DB
-   * Firebase Realtime Database
-   * Realm Database
-   * JDBC
+    * SQLite
+    * My Sql
+    * Maria DB
+    * Firebase Realtime Database
+    * Realm Database
+    * JDBC
  * ### Operation Systems
-   * Linux (Debian based)
-   * Windows
-   * Raspbian
-   * Android
+    * Linux (Debian based)
+    * Windows
+    * Raspbian
+    * Android
  * ### Interests
-   * Software Development
-   * Mobile Development
-   * Networking
-   * Distributed Systems
-   * Security
-   * Web Services
-   * Game Development
+    * Software Development
+    * Mobile Development
+    * Networking
+    * Distributed Systems
+    * Security
+    * Web Services
+    * Game Development
  
  * ### Frameworks & Standars
-   * REST 
-   * SOAP
-   * Spring Boot
-   * Java RMI
-
+    * REST 
+    * SOAP
+    * Spring Boot
+    * Java RMI
 
 ## Education
 
