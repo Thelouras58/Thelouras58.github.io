@@ -20,12 +20,12 @@ I got more involved with Java and Android
 
 Some lab projects that are worth taking a look:
 
-* Crypto Game (Java)
-* Linkedin like site (PHP)
-* **[Weather Ball](http://thelouras.gr/weather-ball/)** (Android)
-* **[Password Manager](https://github.com/Thelouras58/PasswordManager)** (Java)
-* **[Ready to Lock](https://github.com/Thelouras58/ReadyToLock)** (Android)
-* **[RSA implementation](https://gist.github.com/Thelouras58/a3b04a3df0d167743084ff94442f52d8)** (C)
+&nbsp;&nbsp;* Crypto Game (Java)
+&nbsp;&nbsp;* Linkedin like site (PHP)
+&nbsp;&nbsp;* **[Weather Ball](http://thelouras.gr/weather-ball/)** (Android)
+&nbsp;&nbsp;* **[Password Manager](https://github.com/Thelouras58/PasswordManager)** (Java)
+&nbsp;&nbsp;* **[Ready to Lock](https://github.com/Thelouras58/ReadyToLock)** (Android)
+&nbsp;&nbsp;* **[RSA implementation](https://gist.github.com/Thelouras58/a3b04a3df0d167743084ff94442f52d8)** (C)
 
    
   
@@ -37,8 +37,8 @@ Engineer's degree (Integrated Master)
 
 Specializations:
 
-* Security of Information and Communication Systems
-* Computer Systems and Networks
+&nbsp;&nbsp;* Security of Information and Communication Systems
+&nbsp;&nbsp;* Computer Systems and Networks
 
 Thesis **[(http://thelouras.gr/diploma-thesis/)]**:
 
@@ -48,18 +48,18 @@ supervisor: Goumopoulos Christos
 
 
 ## Skills
-* ### Programming
-    * Object Oriented Programming
-    * Android SDK
-    * Java
-    * Kotlin 
-* ### Databases 
-    * SQLite
-    * My Sql
-    * Maria DB
-    * Firebase Realtime Database
-    * Realm Database
-    * JDBC  
+&nbsp;&nbsp;* ### Programming
+&nbsp;&nbsp;&nbsp;* Object Oriented Programming
+&nbsp;&nbsp;&nbsp;* Android SDK
+&nbsp;&nbsp;&nbsp;* Java
+&nbsp;&nbsp;&nbsp;* Kotlin 
+&nbsp;&nbsp;* ### Databases 
+&nbsp;&nbsp;&nbsp;* SQLite
+&nbsp;&nbsp;&nbsp;* My Sql
+&nbsp;&nbsp;&nbsp;* Maria DB
+&nbsp;&nbsp;&nbsp;* Firebase Realtime Database
+&nbsp;&nbsp;&nbsp;* Realm Database
+&nbsp;&nbsp;&nbsp;* JDBC  
 * ### Operation Systems 
     * Linux (Debian based)
     * Windows
