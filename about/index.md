@@ -20,12 +20,13 @@ I got more involved with Java and Android
 
 Some lab projects that are worth taking a look:
 
-   * Crypto Game (Java)
-   * Linkedin like site (PHP)
-   * **[Weather Ball](http://thelouras.gr/weather-ball/)** (Android)
-   * **[Password Manager](https://github.com/Thelouras58/PasswordManager)** (Java)
-   * **[Ready to Lock](https://github.com/Thelouras58/ReadyToLock)** (Android)
-   * **[RSA implementation](https://gist.github.com/Thelouras58/a3b04a3df0d167743084ff94442f52d8)** (C)
+       * Crypto Game (Java)
+       * Linkedin like site (PHP)
+       * **[Weather Ball](http://thelouras.gr/weather-ball/)** (Android)
+       * **[Password Manager](https://github.com/Thelouras58/PasswordManager)** (Java)
+       * **[Ready to Lock](https://github.com/Thelouras58/ReadyToLock)** (Android)
+       * **[RSA implementation](https://gist.github.com/Thelouras58/a3b04a3df0d167743084ff94442f52d8)** (C)
+
    
    
 ## Education
@@ -36,9 +37,9 @@ Engineer's degree (Integrated Master)
 
 Specializations:
 
-* Security of Information and Communication Systems
+    * Security of Information and Communication Systems
 
-* Computer Systems and Networks
+    * Computer Systems and Networks
 
 Thesis **[(http://thelouras.gr/diploma-thesis/)]**:
 
@@ -49,37 +50,37 @@ supervisor: Goumopoulos Christos
 
 ## Skills
 * ### Programming
-* Object Oriented Programming
-* Android SDK
-* Java
-* Kotlin
+    * Object Oriented Programming
+    * Android SDK
+    * Java
+    * Kotlin
     
 * ### Databases 
-* SQLite
-* My Sql
-* Maria DB
-* Firebase Realtime Database
-* Realm Database
-* JDBC
+    * SQLite
+    * My Sql
+    * Maria DB
+    * Firebase Realtime Database
+    * Realm Database
+    * JDBC
     
 * ### Operation Systems 
-* Linux (Debian based)
-* Windows
-* Raspbian
-* Android
+    * Linux (Debian based)
+    * Windows
+    * Raspbian
+    * Android
     
 * ### Interests 
-* Software Development
-* Mobile Development
-* Networking
-* Distributed Systems
-* Security
-* Web Services
-* Game Development
+    * Software Development
+    * Mobile Development
+    * Networking
+    * Distributed Systems
+    * Security
+    * Web Services
+    * Game Development
  
 * ### Frameworks & Standars 
-* REST 
-* SOAP
-* Spring Boot
-* Java RMI
+    * REST 
+    * SOAP
+    * Spring Boot
+    * Java RMI
 
