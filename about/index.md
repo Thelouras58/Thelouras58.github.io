@@ -27,7 +27,7 @@ Some lab projects that are worth taking a look:
    - **[Ready to Lock](https://github.com/Thelouras58/ReadyToLock)** (Android)
    - **[RSA implementation](https://gist.github.com/Thelouras58/a3b04a3df0d167743084ff94442f52d8)** (C)
    
-   ## Skills
+## Skills
 * ### Programming
     * Object Oriented Programming
     * Android SDK
