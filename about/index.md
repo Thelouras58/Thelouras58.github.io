@@ -29,46 +29,40 @@ Some lab projects that are worth taking a look:
    
    
 ## Skills
-
 * ### Programming
-
-    * Object Oriented Programming
-    * Android SDK
-    * Java
-    * Kotlin
+* Object Oriented Programming
+* Android SDK
+* Java
+* Kotlin
     
- * ### Databases
- 
-    * SQLite
-    * My Sql
-    * Maria DB
-    * Firebase Realtime Database
-    * Realm Database
-    * JDBC
+* ### Databases 
+* SQLite
+* My Sql
+* Maria DB
+* Firebase Realtime Database
+* Realm Database
+* JDBC
     
- * ### Operation Systems
- 
-    * Linux (Debian based)
-    * Windows
-    * Raspbian
-    * Android
+* ### Operation Systems 
+* Linux (Debian based)
+* Windows
+* Raspbian
+* Android
     
- * ### Interests
+* ### Interests 
+* Software Development
+* Mobile Development
+* Networking
+* Distributed Systems
+* Security
+* Web Services
+* Game Development
  
-    * Software Development
-    * Mobile Development
-    * Networking
-    * Distributed Systems
-    * Security
-    * Web Services
-    * Game Development
- 
- * ### Frameworks & Standars
- 
-    * REST 
-    * SOAP
-    * Spring Boot
-    * Java RMI
+* ### Frameworks & Standars 
+* REST 
+* SOAP
+* Spring Boot
+* Java RMI
 
 
 ## Education
@@ -79,9 +73,9 @@ Engineer's degree (Integrated Master)
 
 Specializations:
 
-- Security of Information and Communication Systems
+* Security of Information and Communication Systems
 
-- Computer Systems and Networks
+* Computer Systems and Networks
 
 Thesis **[(http://thelouras.gr/diploma-thesis/)]**:
 
