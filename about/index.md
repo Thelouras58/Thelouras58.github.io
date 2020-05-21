@@ -8,25 +8,25 @@ comments: false
     
 <center><a><b> Software Developer </b></a> </center>
 
-### Skills
-* ## Programming
+## Skills
+* ### Programming
    * Object Oriented Programming
    * Android SDK
    * Java
    * Kotlin
- * ## Databases
+ * ### Databases
    * SQLite
    * My Sql
    * Maria DB
    * Firebase Realtime Database
    * Realm Database
    * JDBC
- * ## Operation Systems
+ * ### Operation Systems
    * Linux (Debian based)
    * Windows
    * Raspbian
    * Android
- * ## Interests
+ * ### Interests
    * Software Development
    * Mobile Development
    * Networking
@@ -35,18 +35,13 @@ comments: false
    * Web Services
    * Game Development
  
- * ## Frameworks & Standars
+ * ### Frameworks & Standars
    * REST 
    * SOAP
    * Spring Boot
    * Java RMI
-   * Thymeleaf
- * ## Tools 
-   * Android Studio
-   * Intellij IDEA
-   * 
 
-### Experience
+## Experience
 
 So, i love coding and that i did. During my studies I was enrolled into  courses that were programming affiliated.
 
@@ -65,7 +60,7 @@ Some lab projects that are worth taking a look:
    - **[Ready to Lock](https://github.com/Thelouras58/ReadyToLock)** (Android)
    - **[RSA implementation](https://gist.github.com/Thelouras58/a3b04a3df0d167743084ff94442f52d8)** (C)
 
-### Education
+## Education
 
 University of the Aegean, Information and Communication Systems Engineering
 
