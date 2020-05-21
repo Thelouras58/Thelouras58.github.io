@@ -19,7 +19,6 @@ The main technologies that i used are Java, Android, PHP, Python, C++, C, Sqlite
 I got more involved with Java and Android
 
 Some lab projects that are worth taking a look:
-
        * Crypto Game (Java)
        * Linkedin like site (PHP)
        * **[Weather Ball](http://thelouras.gr/weather-ball/)** (Android)
@@ -36,9 +35,7 @@ University of the Aegean, Information and Communication Systems Engineering
 Engineer's degree (Integrated Master)
 
 Specializations:
-
     * Security of Information and Communication Systems
-
     * Computer Systems and Networks
 
 Thesis **[(http://thelouras.gr/diploma-thesis/)]**:
@@ -53,22 +50,19 @@ supervisor: Goumopoulos Christos
     * Object Oriented Programming
     * Android SDK
     * Java
-    * Kotlin
-    
+    * Kotlin 
 * ### Databases 
     * SQLite
     * My Sql
     * Maria DB
     * Firebase Realtime Database
     * Realm Database
-    * JDBC
-    
+    * JDBC  
 * ### Operation Systems 
     * Linux (Debian based)
     * Windows
     * Raspbian
-    * Android
-    
+    * Android 
 * ### Interests 
     * Software Development
     * Mobile Development
@@ -77,10 +71,8 @@ supervisor: Goumopoulos Christos
     * Security
     * Web Services
     * Game Development
- 
 * ### Frameworks & Standars 
     * REST 
     * SOAP
     * Spring Boot
     * Java RMI
-
