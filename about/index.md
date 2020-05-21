@@ -40,7 +40,7 @@ Specializations:
 * &nbsp;&nbsp;&nbsp;&nbsp;Security of Information and Communication Systems
 * &nbsp;&nbsp;&nbsp;&nbsp;Computer Systems and Networks
 
-Thesis **[(http://thelouras.gr/diploma-thesis/)]**:
+Thesis **[(http://thelouras.gr/diploma-thesis/)](http://thelouras.gr/diploma-thesis/)**:
 
 «Design and development of mobile games to support people with memory problems»
 
