@@ -60,7 +60,7 @@ supervisor: Goumopoulos Christos
 * Firebase Realtime Database
 * Realm Database
 * JDBC  
-* ### Operation Systems 
+* ### Operating  Systems 
     * Linux (Debian based)
     * Windows
     * Raspbian
