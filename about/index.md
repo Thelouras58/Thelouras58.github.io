@@ -9,14 +9,42 @@ comments: false
 <center><a><b> Software Developer </b></a> </center>
 
 ### Skills
-
-   * Programming
-   * OOP
-   * Android
+* ## Programming
+   * Object Oriented Programming
+   * Android SDK
    * Java
-   * Linux
-   * Networks
+   * Kotlin
+ * ## Databases
+   * SQLite
+   * My Sql
+   * Maria DB
+   * Firebase Realtime Database
+   * Realm Database
+   * JDBC
+ * ## Operation Systems
+   * Linux (Debian based)
+   * Windows
+   * Raspbian
+   * Android
+ * ## Interests
+   * Software Development
+   * Mobile Development
+   * Networking
+   * Distributed Systems
    * Security
+   * Web Services
+   * Game Development
+ 
+ * ## Frameworks & Standars
+   * REST 
+   * SOAP
+   * Spring Boot
+   * Java RMI
+   * Thymeleaf
+ * ## Tools 
+   * Android Studio
+   * Intellij IDEA
+   * 
 
 ### Experience
 
@@ -26,7 +54,7 @@ From that experience I learned how to create applications with a variety of tech
 
 The main technologies that i used are Java, Android, PHP, Python, C++, C, Sqlite, PLsql and more.
 
-I got more involved with JAva and Android
+I got more involved with Java and Android
 
 Some lab projects that are worth taking a look:
 
@@ -49,7 +77,7 @@ Specializations:
 
 - Computer Systems and Networks
 
-**[Thesis](http://thelouras.gr/diploma-thesis/)**:
+Thesis **[(http://thelouras.gr/diploma-thesis/)]**:
 
 «Design and development of mobile games to support people with memory problems»
 
