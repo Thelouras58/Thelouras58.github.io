@@ -20,32 +20,41 @@ I got more involved with Java and Android
 
 Some lab projects that are worth taking a look:
 
-   - Crypto Game (Java)
-   - Linkedin like site (PHP)
-   - **[Weather Ball](http://thelouras.gr/weather-ball/)** (Android)
-   - **[Password Manager](https://github.com/Thelouras58/PasswordManager)** (Java)
-   - **[Ready to Lock](https://github.com/Thelouras58/ReadyToLock)** (Android)
-   - **[RSA implementation](https://gist.github.com/Thelouras58/a3b04a3df0d167743084ff94442f52d8)** (C)
+   * Crypto Game (Java)
+   * Linkedin like site (PHP)
+   * **[Weather Ball](http://thelouras.gr/weather-ball/)** (Android)
+   * **[Password Manager](https://github.com/Thelouras58/PasswordManager)** (Java)
+   * **[Ready to Lock](https://github.com/Thelouras58/ReadyToLock)** (Android)
+   * **[RSA implementation](https://gist.github.com/Thelouras58/a3b04a3df0d167743084ff94442f52d8)** (C)
+   
    
 ## Skills
+
 * ### Programming
+
     * Object Oriented Programming
     * Android SDK
     * Java
     * Kotlin
+    
  * ### Databases
+ 
     * SQLite
     * My Sql
     * Maria DB
     * Firebase Realtime Database
     * Realm Database
     * JDBC
+    
  * ### Operation Systems
+ 
     * Linux (Debian based)
     * Windows
     * Raspbian
     * Android
+    
  * ### Interests
+ 
     * Software Development
     * Mobile Development
     * Networking
@@ -55,10 +64,12 @@ Some lab projects that are worth taking a look:
     * Game Development
  
  * ### Frameworks & Standars
+ 
     * REST 
     * SOAP
     * Spring Boot
     * Java RMI
+
 
 ## Education
 
