@@ -9,7 +9,7 @@ comments: false
 <center><a><b> Mobile Application Developer  </b></a> </center>
 
 ## Experience
-Curently i am working as Mobile Application Developer @Threenitas
+Currently i am working as Mobile Application Developer @Threenitas
  
 ## Education
 
@@ -21,6 +21,7 @@ Specializations:
 
 * Security of Information and Communication Systems
 * Computer Systems and Networks
+
 
 Thesis **[(http://thelouras.gr/diploma-thesis/)](http://thelouras.gr/diploma-thesis/)**:
 
