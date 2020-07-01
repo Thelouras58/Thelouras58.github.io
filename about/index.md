@@ -20,6 +20,7 @@ Engineer's degree (Integrated Master)
 Specializations:
 
 &nbsp;&nbsp;* Security of Information and Communication Systems
+
 &nbsp;&nbsp;* Computer Systems and Networks
 
 
