@@ -19,12 +19,12 @@ Engineer's degree (Integrated Master)
 
 Specializations:
 
-* Security of Information and Communication Systems
-* Computer Systems and Networks
+&nbsp;&nbsp;* Security of Information and Communication Systems
+&nbsp;&nbsp;* Computer Systems and Networks
 
 
-Thesis **[(http://thelouras.gr/diploma-thesis/)](http://thelouras.gr/diploma-thesis/)**:
+**Thesis** [(http://thelouras.gr/diploma-thesis/)](http://thelouras.gr/diploma-thesis/):
 
-«Design and development of mobile games to support people with memory problems»
+«Design, development and evaluation of mobile games to practice cognitive skills in elders»
 
 supervisor: Goumopoulos Christos
