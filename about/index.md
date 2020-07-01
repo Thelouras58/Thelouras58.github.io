@@ -9,7 +9,7 @@ comments: false
 <center><a><b> Mobile Application Developer  </b></a> </center>
 
 ## Experience
-Currently i am working as Mobile Application Developer @Threenitas
+Currently i am working as Mobile Application Developer at [Threenitas](https://threenitas.com)
  
 ## Education
 
