@@ -12,7 +12,7 @@ Mobile Application Developer at [Threenitas](https://threenitas.com)
 
 Delivering exceptional mobile user experiences by touching code at every level – from views and animations to networking operations and unit test.
 
-Provide thought leadership and setting architectural direction for the Android platform.
+Providing thought leadership and setting architectural direction for the Android platform.
 
 Working cross-functionally to review product requirement documents and produce technical specifications
 
