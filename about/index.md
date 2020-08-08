@@ -6,10 +6,9 @@ date: 2020
 comments: false
 ---
     
-<center><a><b> Mobile Application Developer  </b></a> </center>
 
 ## Experience
-Currently i am working as Mobile Application Developer at [Threenitas](https://threenitas.com)
+Mobile Application Developer at [Threenitas](https://threenitas.com)
 
 Deliver exceptional mobile user experiences by touching code at every level – from views and animations to networking operations and unit test.
 
