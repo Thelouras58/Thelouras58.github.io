@@ -37,13 +37,13 @@ The diploma thesis was held in five stages.
 ### Research 
 
 In this stage, we did a bibliographic study about serious games and their association with the problem of mild cognitive impairment(MCI).
-The purpose of the study was to understand how to design computer games that they can boost and practice cognitive skills.
+The purpose of the study was to understand how to design mobile games that they can boost and practice cognitive skills.
 
 ### UX Design and technical requirements 
 
-The users of the app have specific characteristics, so the UX and the usability of the app must be designed carefully. The previous research helped a lot to design a user friendly app.
+The users of the application have specific characteristics, so the UX and the usability of the app must be designed carefully. The previous research helped a lot to design the app to achieve its purpose.
  
-Also  In this stage we did the analysis of the application. Functional and no fuctional requirements,  architecture and structural requirements and design requirements
+Also  In this stage we did the analysis of the application. Functional and no fuctional requirements,  architecture, structural requirements and design requirements.
 
 
 ### Implementation 
@@ -70,6 +70,6 @@ To collect data from the evaluation we used two methods passive user observation
 
 Finally, through the results of the evaluation, we came up with conclusions to improve the usability of the application.
 So, a massive refactor has been done.
-We redesigned the UX of the app, the usability and some bugs in the gameplays.
+We redesigned the UX of the app, we improved the usability and fixed some bugs.
 
 supervisor professor: [Mr. Goumopoulos Christos](https://scholar.google.gr/citations?user=5C9JHkUAAAAJ)
