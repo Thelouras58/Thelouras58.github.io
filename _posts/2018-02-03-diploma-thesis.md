@@ -69,7 +69,7 @@ To collect data from the evaluation we used two methods passive user observation
 ### Refactor
 
 Finally, through the results of the evaluation, we came up with conclusions to improve the usability of the application.
-So, a massive refactor has been done.
+So, a massive refactoring has been done.
 We redesigned the UX of the app, we improved the usability and fixed some bugs.
 
 supervisor professor: [Mr. Goumopoulos Christos](https://scholar.google.gr/citations?user=5C9JHkUAAAAJ)
