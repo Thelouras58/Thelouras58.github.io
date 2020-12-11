@@ -11,12 +11,12 @@ tag:
 - programming timelapse
 comments: true
 ---
+<h1>Some Videos that I made, just for fun</h1>
+
 
 <h2>Timelapse #1</h2>
 
-My first timelapse, any feedback is welcome!
-
-Enjoy!
+My first timelapse Enjoy!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G9fKuOWWQhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
