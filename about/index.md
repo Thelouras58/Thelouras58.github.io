@@ -10,13 +10,15 @@ comments: false
 ## Experience
 Mobile Application Developer at [Threenitas](https://threenitas.com)
 
-Delivering exceptional mobile user experiences by touching code at every level – from views and animations to networking operations and unit test.
+- Designing, implementing, documenting, testing, and tuning application code in Kotlin and Java
 
-Providing thought leadership and setting architectural direction for the Android and iOS platform.
+- Defining and implementing robust app architectures and complex user interfaces
 
-Working cross-functionally to review product requirement documents and produce technical specifications
+- Collaborating with product management, design, and QA teams to ensure quality in all phases of app development
 
-Designing, implementing, documenting, and tuning application code in Kotlin and Swift.
+- Working cross-functionally to review product requirement documents and produce technical specifications
+
+- Providing thought leadership and setting architectural direction for the Android platform
 
 
 ## Education
