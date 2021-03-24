@@ -10,15 +10,16 @@ comments: false
 ## Experience
 #### Mobile Application Developer at [Threenitas](https://threenitas.com)
 
- Designing, implementing, documenting, testing, and tuning application code in Kotlin and Java
+ &nbsp;&nbsp; Designing, implementing, documenting, testing, and tuning application code in Kotlin and Java
 
- Defining and implementing robust app architectures and complex user interfaces
+ &nbsp;&nbsp; Defining and implementing robust app architectures and complex user interfaces
 
- Collaborating with product management, design, and QA teams to ensure quality in all phases of app development
+ &nbsp;&nbsp; Collaborating with product management, design, and QA teams to ensure quality in all phases of app development
 
- Working cross-functionally to review product requirement documents and produce technical specifications
+ &nbsp;&nbsp; Working cross-functionally to review product requirement documents and produce technical specifications
 
- Providing thought leadership and setting architectural direction for the Android platform
+ &nbsp;&nbsp; Providing thought leadership and setting architectural direction for the Android platform
+
 
 
 
@@ -27,6 +28,7 @@ comments: false
 #### University of the Aegean, Information and Communication Systems Engineering
 
 #### Engineer's degree (Integrated Master)
+
 
 Specializations:
 
