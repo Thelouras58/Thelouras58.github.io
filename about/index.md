@@ -29,9 +29,9 @@ comments: false
 
 Specializations:
 
-&nbsp;&nbsp;* Security of Information and Communication Systems
+&nbsp;&nbsp;- Security of Information and Communication Systems
 
-&nbsp;&nbsp;* Computer Systems and Networks
+&nbsp;&nbsp;- Computer Systems and Networks
 
 
 **Thesis** [(http://thelouras.gr/diploma-thesis/)](http://thelouras.gr/diploma-thesis/):
