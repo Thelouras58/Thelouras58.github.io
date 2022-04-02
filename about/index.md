@@ -9,6 +9,7 @@ comments: false
 
 ## Experience
 #### Mobile Applications Developer at [Threenitas](https://threenitas.com)
+(Jul 2020 - now)
 
   Designing, implementing, documenting, testing, and tuning application code in Kotlin, Swift and some objective-C
 
