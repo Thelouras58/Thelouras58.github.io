@@ -18,7 +18,7 @@ comments: false
 
   Working cross-functionally to review product requirement documents and produce technical specifications.
 
-  Providing thought leadership and setting architectural direction for the Android and iOS platforms.
+  Providing thought leadership and setting architectural direction for  Android and iOS.
 
 
 
