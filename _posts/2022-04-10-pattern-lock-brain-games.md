@@ -12,7 +12,6 @@ tag:
 comments: true
 ---
 
-
 Pattern Lock Brain Games is an Android  application that's incudes a  mini-game collection that requires a variety of thinking skills.
 <br>The games are divided into 3 different categories, namely: Problem Solving, Memory and Brain Processing Speed. 
 
