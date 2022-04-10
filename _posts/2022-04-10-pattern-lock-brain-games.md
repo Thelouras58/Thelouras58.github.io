@@ -26,7 +26,7 @@ This is a great way for older adults, children, teens and anyone else looking fo
 
 
 I am  glad to present you a new beta version of the Pattern Lock Brain Games Android Application.
-It is currently under development and has been launched in an internal close beta channel with 10 testers.
+It is currently under development and has been launched in an internal close beta channel with over 10 testers.
 
 The beta version includes two games: Draw the Number and Remember the Pattern, a Scoreboard for keeping track of your achievements, and some UI/UX experiments.
 
