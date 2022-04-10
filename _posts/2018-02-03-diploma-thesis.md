@@ -23,20 +23,20 @@ We were inspired by our family who are growing older. As they age, some of them 
 
 There was designed and implemented 15 games that are divided into 4 cognitive skills 
 
-   * Problem Solving 
-   * Memory 
-   * Attention 
-   * Brain processing speed 
+  &nbsp;&nbsp; * Problem Solving 
+  &nbsp;&nbsp; * Memory 
+  &nbsp;&nbsp; * Attention 
+  &nbsp;&nbsp; * Brain processing speed 
 
 <br>
 
 The diploma thesis was held in five stages.
 
-   * Research 
-   * UX Design and technical requirements 
-   * Implementation 
-   * Testing 
-   * Refactor 
+   &nbsp;&nbsp; * Research 
+   &nbsp;&nbsp; * UX Design and technical requirements 
+   &nbsp;&nbsp; * Implementation 
+   &nbsp;&nbsp; * Testing 
+   &nbsp;&nbsp; * Refactor 
 <br><br>
 ### Research 
 
@@ -59,11 +59,11 @@ A local SQLite database has been used.
 
 The technologies that have been used are:
 
-   * Android SDK
-   * Java
-   * XML
-   * SQLite
-   * Git
+   &nbsp;&nbsp; * Android SDK
+   &nbsp;&nbsp; * Java
+   &nbsp;&nbsp; * XML
+   &nbsp;&nbsp; * SQLite
+   &nbsp;&nbsp; * Git
 
 
 ### Testing
