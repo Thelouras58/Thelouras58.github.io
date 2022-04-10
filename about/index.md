@@ -21,7 +21,7 @@ comments: false
 
   Setting  architectural direction for both  Android and iOS.
   
-  Participating in backlog prioritization and feasibility analysis as well as feature estimation. Communicating tech risk to the management.
+  Participating in backlog prioritization and feasibility analysis as well as feature estimation. Communicating technical risk to the management.
 
 
 
