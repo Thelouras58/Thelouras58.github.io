@@ -28,8 +28,6 @@ There was designed and implemented 15 games that are divided into 4 cognitive sk
   &nbsp;&nbsp; * Attention 
   &nbsp;&nbsp; * Brain processing speed 
 
-<br>
-
 The diploma thesis was held in five stages.
 
    &nbsp;&nbsp; * Research 
@@ -37,7 +35,7 @@ The diploma thesis was held in five stages.
    &nbsp;&nbsp; * Implementation 
    &nbsp;&nbsp; * Testing 
    &nbsp;&nbsp; * Refactor 
-<br><br>
+
 ### Research 
 
 Because of the specific nature of the project, we needed to do a bibliography study on serious games and mild cognitive impairment. 
