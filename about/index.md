@@ -19,7 +19,9 @@ comments: false
 
   Working cross-functionally to review product requirement documents and produce technical specifications.
 
-  Providing thought leadership and setting architectural direction for  Android and iOS.
+  Setting  architectural direction for both  Android and iOS.
+  
+  Participating in backlog prioritization and feasibility analysis as well as feature estimation. Communicating tech risk to the management.
 
 
 
