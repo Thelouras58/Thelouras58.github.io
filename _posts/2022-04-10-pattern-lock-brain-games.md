@@ -20,7 +20,7 @@ Today, technology has advanced so far that you can practice your cognitive skill
 The games require not only concentration but also good observation and problem solving skills. 
 <br>Besides being challenging and addictive, these games will help sharpen your cognitive functions and keep your brain healthy.
 
-The games included in Pattern Games were specifically designed to test how well you can recognize matching patterns, how well you can process information quickly, how quick you react to visual cues, and more.
+The games included in the app were specifically designed to test how well you can recognize matching patterns, how well you can process information quickly, how quick you react to visual cues, and more.
 
 This is a great way for older adults, children, teens and anyone else looking for a fun & challenging game to play.
 
