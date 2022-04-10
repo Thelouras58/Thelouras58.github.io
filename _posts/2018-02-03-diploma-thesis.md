@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Diploma Thesis"
-date:   2019/02/02
+date:   2018/02/03
 excerpt: "Design and development of mobile games to support people with memory problems"
 project: true
 tag:
