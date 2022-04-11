@@ -35,4 +35,4 @@ The beta version includes two games: Draw the Number and Remember the Pattern, a
 
 **Remember the Pattern** – in this game you have to remember a pattern that you will be shown for a short period of time. The longer you play, the more complicated it becomes. Be careful not to make any mistakes!
 
-Both games are fun, simple, and easy to pick up, so dive in and subscribe for phase 2 of the close beta!(http://eepurl.com/g3oqa9)
+Both games are fun, simple, and easy to pick up, so dive in and subscribe for phase 2 of the close beta!([http://eepurl.com/g3oqa9]) 
