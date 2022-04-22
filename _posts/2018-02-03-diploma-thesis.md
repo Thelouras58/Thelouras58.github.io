@@ -12,7 +12,7 @@ tag:
 comments: true
 ---
 
-You can read the full report of the thesis in Greek  **[here](https://drive.google.com/file/d/1pqMQRbw9K097PA07t6QHAkgKIJYU_Ji2/view?usp=sharing)**
+You can read the full report of the thesis in Greek  **[here](https://hellanicus.lib.aegean.gr/browse?value=Θελούρας,%20Κωνσταντίνος%20Παναγιώτης&type=author)**
 
 This project aims to practice the cognitive skills of people with memory problems (e.g. elderly people, people on the verge of Alzheimer's disease) through a variety of mobile games.
 Also, the purpose of this study was to understand the impact that serious games can have on cognitive skills in people with mild cognitive impairment (MCI). The goal is not only to bring fun to their lives, but also to help them cope with the issues they face.
