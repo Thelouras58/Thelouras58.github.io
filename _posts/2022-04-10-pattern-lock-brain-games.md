@@ -26,7 +26,7 @@ The games included in the app were specifically designed to test how well you ca
 This is a great way for older adults, children, teens and anyone else looking for a fun & challenging game to play.
 
 
-I am  glad to present you a new beta version of the Pattern Lock Brain Games Android Application.<br>
+I am  glad to present you the first open beta version of the Pattern Lock Brain Games Android Application.<br>
 It is currently under development and has been launched in an internal close beta channel with over 10 testers.
 
 The beta version includes two games: Draw the Number and Remember the Pattern, a Scoreboard for keeping track of your achievements, and some UI/UX experiments.
@@ -35,4 +35,4 @@ The beta version includes two games: Draw the Number and Remember the Pattern, a
 
 **Remember the Pattern** – in this game you have to remember a pattern that you will be shown for a short period of time. The longer you play, the more complicated it becomes. Be careful not to make any mistakes!
 
-Both games are fun, simple, and easy to pick up, so dive in and **[subscribe](http://eepurl.com/g3oqa9)**  for phase 2 of the close beta!
+Both games are fun, simple, and easy to pick up, so dive in and **[download](https://play.google.com/store/apps/details?id=thelouras.pattern.game)**  the early access version of the app!
