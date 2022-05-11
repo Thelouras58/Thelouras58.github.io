@@ -23,7 +23,9 @@ comments: false
 
 ● Setting  architectural direction for both  Android and iOS.
 
-#### Mobile Applications Developer at [Threenitas](https://threenitas.com)
+● Participating in backlog prioritization and feasibility analysis as well as feature estimation. Communicating technical risk to the management.
+
+#### Mobile Applications Developer at **[Threenitas]**(https://threenitas.com)
 (Jul 2020 - Mar 2022)
 
  ● Designing, implementing, documenting, testing, and tuning application code in Kotlin, Swift and some objective-C
@@ -34,7 +36,6 @@ comments: false
 
  ● Working cross-functionally to review product requirement documents and produce technical specifications.
   
- ● Participating in backlog prioritization and feasibility analysis as well as feature estimation. Communicating technical risk to the management.
 
 
 
