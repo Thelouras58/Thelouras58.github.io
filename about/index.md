@@ -8,8 +8,9 @@ comments: false
     
 
 ## Experience
-### iOS Team Lead at [Threenitas](https://threenitas.com)
+#### iOS Team Lead at [Threenitas](https://threenitas.com)
 (Mar 2022 - now)
+
 ● Participating in the hiring process
 
 ● Scaled team to over 6 engineers
