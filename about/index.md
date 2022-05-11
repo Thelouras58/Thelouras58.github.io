@@ -26,15 +26,15 @@ comments: false
 #### Mobile Applications Developer at [Threenitas](https://threenitas.com)
 (Jul 2020 - Mar 2022)
 
- ●  Designing, implementing, documenting, testing, and tuning application code in Kotlin, Swift and some objective-C
+ ● Designing, implementing, documenting, testing, and tuning application code in Kotlin, Swift and some objective-C
 
- ●  Defining and implementing robust app architectures and complex user interfaces.
+ ● Defining and implementing robust app architectures and complex user interfaces.
 
- ●  Collaborating with product management, design, and QA teams to ensure quality in all phases of app development.
+ ● Collaborating with product management, design, and QA teams to ensure quality in all phases of app development.
 
- ●  Working cross-functionally to review product requirement documents and produce technical specifications.
+ ● Working cross-functionally to review product requirement documents and produce technical specifications.
   
- ●  Participating in backlog prioritization and feasibility analysis as well as feature estimation. Communicating technical risk to the management.
+ ● Participating in backlog prioritization and feasibility analysis as well as feature estimation. Communicating technical risk to the management.
 
 
 
