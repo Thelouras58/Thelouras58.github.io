@@ -8,7 +8,7 @@ comments: false
     
 
 ## Experience
-#### iOS Team Lead at [Threenitas](https://threenitas.com)
+#### iOS Team Lead at **[Threenitas](https://threenitas.com)**
 (Mar 2022 - now)
 
 ● Participating in the hiring process
@@ -25,7 +25,7 @@ comments: false
 
 ● Participating in backlog prioritization and feasibility analysis as well as feature estimation. Communicating technical risk to the management.
 
-#### Mobile Applications Developer at **[Threenitas]**(https://threenitas.com)
+#### Mobile Applications Developer at **[Threenitas](https://threenitas.com)**
 (Jul 2020 - Mar 2022)
 
  ● Designing, implementing, documenting, testing, and tuning application code in Kotlin, Swift and some objective-C
