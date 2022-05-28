@@ -32,7 +32,7 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 
-  #google:
+  google:           https://play.google.com/store/apps/details?id=thelouras.pattern.game
   #plus:            #username
   analytics:        UA-96540683-2
   #verify:
