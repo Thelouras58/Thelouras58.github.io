@@ -8,8 +8,11 @@ comments: false
     
 
 ## Experience
+#### Mobile Tech Lead at **[Threenitas](https://threenitas.com)**
+(May 2022 - now)
+
 #### iOS Team Lead at **[Threenitas](https://threenitas.com)**
-(Mar 2022 - now)
+(Jan 2022 - May 2022)
 
 ● Participating in the hiring process
 
@@ -21,7 +24,7 @@ comments: false
 
 ● Responsible for team’s Engineering KPIs
 
-● Setting  architectural direction for both  Android and iOS.
+● Setting  architectural direction for OS.
 
 ● Participating in backlog prioritization and feasibility analysis as well as feature estimation. Communicating technical risk to the management.
 
