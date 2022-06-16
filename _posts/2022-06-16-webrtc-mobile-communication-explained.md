@@ -10,7 +10,7 @@ tag:
 - Distributed Systems
 comments: true
 ---
-
+With WebRTC, you can add real-time communication capabilities to your application that works on top of an open standard. It supports video, voice, and generic data to be sent between peers, allowing developers to build powerful voice- and video-communication solutions.
 Sequence Diagram (Simple)
 
 ![image](https://user-images.githubusercontent.com/25557899/174005462-2b8c335e-23de-4e6d-84ed-b30501777a96.png)
