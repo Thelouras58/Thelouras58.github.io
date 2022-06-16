@@ -69,23 +69,23 @@ As you can see in the diagram, SDP and ICE candidates need to be interchange
 **Connection Observer methods (callbacks)**
 
 
-- addStream: if this method was called, the Javascript code has added a MediaStream to the peerconnection. You can see the id of the stream as well as the audio and video tracks. onAddStream shows a remote stream being added, including the audio and video track ids, it is called between the setRemoteDescription call and the setRemoteDescriptionOnSuccess callback
+- **addStream**: if this method was called, the Javascript code has added a MediaStream to the peerconnection. You can see the id of the stream as well as the audio and video tracks. onAddStream shows a remote stream being added, including the audio and video track ids, it is called between the setRemoteDescription call and the setRemoteDescriptionOnSuccess callback
 
-- createOffer shows any calls to this API including the options such as offerToReceiveAudio, offerToReceiveVideo or iceRestart. createOfferOnSuccess shows the results of the createOffer call, including the type (which should be ‘offer’ obviously) and the SDP resulting from it. createOfferOnFailure could also be called indicating an error but that is quite rare
+- **createOffer** shows any calls to this API including the options such as offerToReceiveAudio, offerToReceiveVideo or iceRestart. createOfferOnSuccess shows the results of the createOffer call, including the type (which should be ‘offer’ obviously) and the SDP resulting from it. createOfferOnFailure could also be called indicating an error but that is quite rare
 
-- createAnswer and createAnswerOnSuccess and createAnswerOnFailure are similar but with no additional options
+- **createAnswer** and createAnswerOnSuccess and createAnswerOnFailure are similar but with no additional options
 
-- setLocalDescription shows you the type and SDP used in the setLocalDescription call. If you do any SDP munging between createOffer and setLocaldescription you will see this here. This results in either a setLocalDescriptionOnSuccess or setLocalDescriptionOnFailure callback which shows any errors. The same applies to the setRemoteDescription and its callbacks, setRemoteDescriptionOnSuccess and setRemoteDescriptionOnFailure
+- **setLocalDescription** shows you the type and SDP used in the setLocalDescription call. If you do any SDP munging between createOffer and setLocaldescription you will see this here. This results in either a setLocalDescriptionOnSuccess or setLocalDescriptionOnFailure callback which shows any errors. The same applies to the setRemoteDescription and its callbacks, setRemoteDescriptionOnSuccess and setRemoteDescriptionOnFailure
 
-- onRenegotiationNeeded is the old chrome-internal name for the onnegotiationneeded event. If your app uses this you might want to look for it
+- **onRenegotiationNeeded** is the old chrome-internal name for the onnegotiationneeded event. If your app uses this you might want to look for it
 
-- onSignalingStateChange shows the changes in the signaling state as a result of calls to setLocalDescription and setRemoteDescription. See the wonderful diagram in the specification for the gory details. At the end of the day, you will want to be in the stable state most of the time
+- **onSignalingStateChange** shows the changes in the signaling state as a result of calls to setLocalDescription and setRemoteDescription. See the wonderful diagram in the specification for the gory details. At the end of the day, you will want to be in the stable state most of the time
 
-- iceGatheringStateChange is the little brother of the ice connection state. It will show you the state of the ice gatherer. It will change to gathering after setLocalDescription if there are ICE candidates to gather
+- **iceGatheringStateChange** is the little brother of the ice connection state. It will show you the state of the ice gatherer. It will change to gathering after setLocalDescription if there are ICE candidates to gather
 
-- onnicecandidate events show all candidates gathered, with information for which m-line and MID. Likewise, the addIceCandidate method shows that information from the other side. Typically you should see both event types. See below for a more detailed discussion of these events
+- **onnicecandidate** events show all candidates gathered, with information for which m-line and MID. Likewise, the addIceCandidate method shows that information from the other side. Typically you should see both event types. See below for a more detailed discussion of these events
 
-- oniceconnectionstate is one of the most important event handlers. It tells you whether a peer-to-peer connection succeeded or not. From here, you can start searching for the active candidate as we explained in the previous post
+- **oniceconnectionstate** is one of the most important event handlers. It tells you whether a peer-to-peer connection succeeded or not. From here, you can start searching for the active candidate as we explained in the previous post
 
 Timeline of the aboves:
 
