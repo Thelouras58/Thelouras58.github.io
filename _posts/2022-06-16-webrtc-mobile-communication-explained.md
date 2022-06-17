@@ -86,8 +86,7 @@ As you can see in the diagram, SDP and ICE candidates need to be interchange
 
 - **onnicecandidate** events show all candidates gathered, with information for which m-line and MID. Likewise, the addIceCandidate method shows that information from the other side. Typically you should see both event types. See below for a more detailed discussion of these events
 
-- **oniceconnectionstate** is one of the most important event handlers. It tells you whether a peer-to-peer connection succeeded or not. From here, you can start searching for the active candidate as we explained in the previous post
-
+- **oniceconnectionstate** is one of the most important event handlers. It tells you whether a peer-to-peer connection succeeded or not. From here, you can start searching for the active candidate as explained.
 Timeline of the aboves:
 
 **caller:**
@@ -136,7 +135,7 @@ Timeline of the aboves:
 
 6. Start streaming Video 
 
-Sources: ( study material for webRTC )
+**Sources: ( study material for webRTC )**
 
 https://www.w3.org/TR/webrtc/    
 
