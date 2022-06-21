@@ -16,7 +16,7 @@ comments: false
 
 ● Participating in the hiring process
 
-● Scaled team to over 6 engineers
+● Scaled team to 4 engineers
 
 ● Design and launch training process for mobile engineers.
 
@@ -24,7 +24,7 @@ comments: false
 
 ● Responsible for team’s Engineering KPIs
 
-● Setting  architectural direction for OS.
+● Setting  architectural direction for iOS.
 
 ● Participating in backlog prioritization and feasibility analysis as well as feature estimation. Communicating technical risk to the management.
 
