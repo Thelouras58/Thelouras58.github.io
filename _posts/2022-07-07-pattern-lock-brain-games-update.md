@@ -32,7 +32,7 @@ Here's what's new:
 ## Version 1.0.0 Analytics Insight
 
 Let's Recap: 568 downloads (for both closed & open beta), 1.2k sessions played, India was in top 3 countries followed by Greece and United Stats (which is great because they're both English speaking countries). 
-Engagement time was 3m with over 2k clicks on the lock which means people really liked it!
+Engagement time was 3 minutes  which means people  liked it!
 
 ![image](https://user-images.githubusercontent.com/25557899/177714341-17120e80-eb34-4718-8591-bf2023eb1d28.png)
 
