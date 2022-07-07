@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pattern Lock Brain Games"
+title:  "Pattern Lock Brain Games v.1.0.0"
 date:   2022/04/10
 excerpt: "Want to have fun while you are exercising your brain? Then this App is what you need."
 project: true
