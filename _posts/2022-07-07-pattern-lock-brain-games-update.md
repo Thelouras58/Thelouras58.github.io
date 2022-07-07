@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pattern Lock Brain Games v.1.1.0 & Analytics Insight"
-date:   2022/04/10
+date:   2022/07/07
 excerpt: "Want to have fun while you are exercising your brain? Then this App is what you need."
 project: true
 tag:
