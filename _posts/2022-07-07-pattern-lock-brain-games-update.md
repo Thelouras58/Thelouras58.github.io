@@ -38,10 +38,10 @@ Engagement time was 3 minutes  which means people  liked it!
 
 ![image](https://user-images.githubusercontent.com/25557899/177714428-d2dc9431-387f-4fed-93b2-b1c65fab4272.png)
 
-Trafic Source:
+
 ![image](https://user-images.githubusercontent.com/25557899/177715163-07945ecd-e8e0-4f96-a419-7fd966c8c139.png)
 
-Store Listing performance:
+
 ![image](https://user-images.githubusercontent.com/25557899/177715288-0e0e8f04-28d8-4893-ab44-a0c8a01563a0.png)
 
 
