@@ -29,19 +29,21 @@ Here's what's new:
 
 - UI/UX improvements: I took your feedback and made some tweaks here and there so that the game is even more attractive.
 
-## Version 1.0.0 Analytics Insight
+## Version 1.0.0 Analytics Insight [update 30/07/2022]
 
-Let's Recap: 568 downloads (for both closed & open beta), 1.2k sessions played, India was in top 3 countries followed by Greece and United States (which is great because they're both English speaking countries). 
-Engagement time was 3 minutes  which means people  liked it!
+I'm so happy to see that my first Android game has hit 1000 #downloads in the first three months.
+![Screenshot_4](https://user-images.githubusercontent.com/25557899/181994057-0dcdc86b-d05f-4882-ba00-dd71f66a9135.png)
 
-![image](https://user-images.githubusercontent.com/25557899/177714341-17120e80-eb34-4718-8591-bf2023eb1d28.png)
+I'd love to share some analytics with you. It's really interesting how people are playing my game and where they're coming from.
 
-![image](https://user-images.githubusercontent.com/25557899/177714428-d2dc9431-387f-4fed-93b2-b1c65fab4272.png)
+The first thing I want to talk about is engagement time, most of the users play for 3 minutes per session, on average.
+The average sessions per user is 2.5 times.
+This is a good sign, cause there is not so much content yet.
 
+The second thing I wanted to share was which countries are most active. India is in the top three countries, followed by Greece and United States.Also Pakistan has some good hits.
 
-![image](https://user-images.githubusercontent.com/25557899/177715163-07945ecd-e8e0-4f96-a419-7fd966c8c139.png)
+Finally, let me tell you about organic search, only 7% of users acquired from external referrals, so 93% of the users found the app organically from Google Playstore
 
-
-![image](https://user-images.githubusercontent.com/25557899/177715288-0e0e8f04-28d8-4893-ab44-a0c8a01563a0.png)
+![Screenshot_3](https://user-images.githubusercontent.com/25557899/181993949-b0766d75-ce71-46d7-b2f9-fb03d4c87aed.png)
 
 
