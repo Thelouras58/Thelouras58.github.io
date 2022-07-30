@@ -32,7 +32,8 @@ Here's what's new:
 ## Version 1.0.0 Analytics Insight [update 30/07/2022]
 
 I'm so happy to see that my first Android game has hit 1000 #downloads in the first three months.
-![Screenshot_4](https://user-images.githubusercontent.com/25557899/181994057-0dcdc86b-d05f-4882-ba00-dd71f66a9135.png)
+![Screenshot_3](https://user-images.githubusercontent.com/25557899/181993949-b0766d75-ce71-46d7-b2f9-fb03d4c87aed.png)
+
 
 I'd love to share some analytics with you. It's really interesting how people are playing my game and where they're coming from.
 
@@ -44,6 +45,6 @@ The second thing I wanted to share was which countries are most active. India is
 
 Finally, let me tell you about organic search, only 7% of users acquired from external referrals, so 93% of the users found the app organically from Google Playstore
 
-![Screenshot_3](https://user-images.githubusercontent.com/25557899/181993949-b0766d75-ce71-46d7-b2f9-fb03d4c87aed.png)
+![Screenshot_4](https://user-images.githubusercontent.com/25557899/181994057-0dcdc86b-d05f-4882-ba00-dd71f66a9135.png)
 
 
