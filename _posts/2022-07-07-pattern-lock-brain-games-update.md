@@ -46,5 +46,3 @@ The second thing I wanted to share was which countries are most active. India is
 Finally, let me tell you about organic search, only 7% of users acquired from external referrals, so 93% of the users found the app organically from Google Playstore
 
 ![Screenshot_4](https://user-images.githubusercontent.com/25557899/181994057-0dcdc86b-d05f-4882-ba00-dd71f66a9135.png)
-
-
