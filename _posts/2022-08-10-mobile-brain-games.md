@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mobile Brain Games"
-date:   2022/08/11
+date:   2022/11/08
 excerpt: "A collection of mobile apps to train your brain"
 project: true
 tag:
