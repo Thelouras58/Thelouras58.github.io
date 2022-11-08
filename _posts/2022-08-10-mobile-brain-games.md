@@ -21,10 +21,10 @@ We’re all playing games on our phones anyway - why not play one that can make 
 
 The world of serious games is not only limited to the design of entertainment and recreational experiences. Serious games are also used with the aim of improving the physical, emotional, and cognitive condition of people.
 
-That's why I am building Mobile Brain Games (https://mobilebraingames.com/)
+That's why I am building **[Mobile Brain Games](https://mobilebraingames.com/)**
 A collection of mobile apps to train your brain.
 
-The first app of mobilebraingames.com is live with over 5k downloads. (https://play.google.com/store/apps/details?id=thelouras.pattern.game)
+The **[first app](https://play.google.com/store/apps/details?id=thelouras.pattern.game)**  of mobilebraingames.com is live with over 5k downloads.
 
 More apps are coming soon!
 
