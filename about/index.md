@@ -16,8 +16,6 @@ comments: false
 
 ● Participating in the hiring process
 
-● Scaled team to 4 engineers
-
 ● Design and launch training process for mobile engineers.
 
 ● Daily planning of the team
