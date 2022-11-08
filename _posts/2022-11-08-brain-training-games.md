@@ -9,12 +9,13 @@ tag:
 - cognitive skills
 comments: true
 ---
+Jigsaw puzzles, crosswords, chess and other problem-solving and memory games that stimulate your brain aren't just fun—they may produce lasting benefits.
 
 ## Intro
 
-Brain health is an important part of maintaining good cognitive health. Researchers have found that there are many ways to sharpen your brain, whether you’re in school or the workplace. Whether you’re playing video games, taking classes at a local community college or university, using a computer program like Lumosity, BrainHQ, or [Pattern Lock Brain Games](https://play.google.com/store/apps/details?id=thelouras.pattern.game)  — or even reading a book!—there is always a need for good focus, memory, and problem-solving skills. And now there are many ways to do this without even leaving home!
-[Brain games](https://mobilebraingames.com/) may help you to stay focused or keep your thinking skills sharp.
-If you're looking for a way to improve your memory and concentration, brain training games are an excellent option. These games are designed to improve brain function by engaging the mind in stimulating activities that exercise different areas of the body. They can also be good for keeping your mind active as well as improving your overall health by reducing stress levels and promoting relaxation and self-care practices like yoga or meditation.
+Brain health is an important part of maintaining good cognitive health. Researchers have found that there are many ways to sharpen your brain, whether you’re in school or the workplace. Whether you’re playing video games, taking classes at a local community college or university, using a computer program like Lumosity, BrainHQ, or **[Pattern Lock Brain Games](https://play.google.com/store/apps/details?id=thelouras.pattern.game)**  — or even reading a book!—there is always a need for good focus, memory, and problem-solving skills. And now there are many ways to do this without even leaving home!
+**[Brain games](https://mobilebraingames.com/)** may help you to stay focused or keep your thinking skills sharp.
+If you're looking for a way to improve your memory and concentration, **[Brain training games](https://mobilebraingames.com/)**  are an excellent option. These games are designed to improve brain function by engaging the mind in stimulating activities that exercise different areas of the body. They can also be good for keeping your mind active as well as improving your overall health by reducing stress levels and promoting relaxation and self-care practices like yoga or meditation.
  
 ## There are many ways to sharpen your brain
 
