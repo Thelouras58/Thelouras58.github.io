@@ -14,28 +14,28 @@ comments: false
 #### iOS Team Lead at **[Threenitas](https://threenitas.com)**
 (Jan 2022 - May 2022)
 
-● Participating in the hiring process
+&nbsp;&nbsp;● Participating in the hiring process
 
-● Design and launch training process for mobile engineers.
+&nbsp;&nbsp;● Design and launch training process for mobile engineers.
 
-● Daily planning of the team
+&nbsp;&nbsp;● Daily planning of the team
 
-● Responsible for team’s Engineering KPIs
+&nbsp;&nbsp;● Responsible for team’s Engineering KPIs
 
-● Setting  architectural direction for iOS.
+&nbsp;&nbsp;● Setting  architectural direction for iOS.
 
-● Participating in backlog prioritization and feasibility analysis as well as feature estimation. Communicating technical risk to the management.
+&nbsp;&nbsp;● Participating in backlog prioritization and feasibility analysis as well as feature estimation. Communicating technical risk to the management.
 
 #### Mobile Applications Developer at **[Threenitas](https://threenitas.com)**
 (Jul 2020 - Mar 2022)
 
- ● Designing, implementing, documenting, testing, and tuning application code in Kotlin, Swift and some objective-C
+ &nbsp;&nbsp;● Designing, implementing, documenting, testing, and tuning application code in Kotlin, Swift and some objective-C
 
- ● Defining and implementing robust app architectures and complex user interfaces.
+ &nbsp;&nbsp;● Defining and implementing robust app architectures and complex user interfaces.
 
- ● Collaborating with product management, design, and QA teams to ensure quality in all phases of app development.
+ &nbsp;&nbsp;● Collaborating with product management, design, and QA teams to ensure quality in all phases of app development.
 
- ● Working cross-functionally to review product requirement documents and produce technical specifications.
+ &nbsp;&nbsp;● Working cross-functionally to review product requirement documents and produce technical specifications.
   
 
 
