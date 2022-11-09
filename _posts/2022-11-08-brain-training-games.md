@@ -9,7 +9,7 @@ tag:
 - cognitive skills
 comments: true
 ---
-Jigsaw puzzles, crosswords, chess and other problem-solving and memory games that stimulate your brain aren't just fun—they may produce lasting benefits.
+Games hat stimulate your brain aren't just fun—they may produce lasting benefits.
 
 ### Intro
 
