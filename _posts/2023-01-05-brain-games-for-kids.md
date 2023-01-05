@@ -9,7 +9,7 @@ tag:
 comments: true
 ---
 
-Parents always want to give our children the best possible start in life. One way to do this is by helping them develop strong cognitive skills. These skills, including memory, attention, problem-solving, and critical thinking, are important for success in school and in life.
+Parents always want to give their children the best possible start in life. One way to do this is by helping them develop strong cognitive skills. These skills, including memory, attention, problem-solving, and critical thinking, are important for success in school and in life.
 
 One fun and effective way to boost your child's cognitive skills is by playing brain games. These games are specifically designed to challenge the brain and improve various cognitive abilities.
 
