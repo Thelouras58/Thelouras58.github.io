@@ -35,4 +35,4 @@ Overall, brain games are a fun and effective way to help your child develop impo
 
 Brain games are a great way to have fun with your child while also helping them develop important cognitive skills. By making brain games a regular part of your child's routine and incorporating other activities that promote cognitive development, you can give your child a strong foundation for success in school and in life. So next time you're looking for a fun and educational activity to do with your child, consider trying one of these brain games!
 
-And remember. Keep your mind sharp and active with our collection of challenging brain games, [www.mobilebraingames.com](www.mobilebraingames.com)
+And remember. Keep your mind sharp and active with our collection of challenging brain games, **[mobilebraingames](www.mobilebraingames.com)**
