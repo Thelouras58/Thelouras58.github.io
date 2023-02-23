@@ -24,7 +24,7 @@ The world of serious games is not only limited to the design of entertainment an
 That's why I am building **[Mobile Brain Games](https://mobilebraingames.com/)**
 A collection of mobile apps to train your brain.
 
-The **[first app](https://play.google.com/store/apps/details?id=thelouras.pattern.game)**  of mobilebraingames.com is live with over 5k downloads.
+The **[first app](https://play.google.com/store/apps/details?id=thelouras.pattern.game)**  of the collection is live with over 10k downloads.
 
 More apps are coming soon!
 
