@@ -12,7 +12,8 @@ tag:
 comments: true
 ---
 
-Privacy Policy Konstantinos Thelouras built the Pattern Lock: Brain Games app as an Ad Supported app. This SERVICE is provided by Konstantinos Thelouras at no cost and is intended for use as is.
+Privacy Policy & Term of Servics 
+Konstantinos Thelouras built the Pattern Lock: Brain Games app as an Ad Supported app. This SERVICE is provided by Konstantinos Thelouras at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
