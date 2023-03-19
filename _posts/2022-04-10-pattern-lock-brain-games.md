@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pattern Lock Brain Games v.1.0.0"
+title:  "Pattern Lock Brain Games Privacy Policy"
 date:   2022/04/10
 excerpt: "Want to have fun while you are exercising your brain? Then this App is what you need."
 project: true
@@ -12,27 +12,52 @@ tag:
 comments: true
 ---
 
-Pattern Lock Brain Games is my first personal production project.<br>
-It's an Android  application that incudes a  mini-game collection that requires a variety of thinking skills.
-<br>The games are divided into 3 different categories, namely: Problem Solving, Memory and Brain Processing Speed. 
+Privacy Policy Konstantinos Thelouras built the Pattern Lock: Brain Games app as an Ad Supported app. This SERVICE is provided by Konstantinos Thelouras at no cost and is intended for use as is.
 
-Today, technology has advanced so far that you can practice your cognitive skills through a game app on your smartphone. So why not use it? We’re all playing games on our phones anyway—why not play one that can make a real difference in your health?
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-The games require not only concentration but also good observation and problem solving skills. 
-<br>Besides being challenging and addictive, these games will help sharpen your cognitive functions and keep your brain healthy.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The games included in the app were specifically designed to test how well you can recognize matching patterns, how well you can process information quickly, how quick you react to visual cues, and more.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Pattern Lock: Brain Games unless otherwise defined in this Privacy Policy.
 
-This is a great way for older adults, children, teens and anyone else looking for a fun & challenging game to play.
+Information Collection and Use
 
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 
-I am  glad to present you the first open beta version of the Pattern Lock Brain Games Android Application.<br>
-It is currently under development and has been launched in an internal close beta channel with over 10 testers.
+The app does only collect by use of third-party services that may collect information used to identify your
 
-The beta version includes two games: Draw the Number and Remember the Pattern, a Scoreboard for keeping track of your achievements, and some UI/UX experiments.
+The privacy policy of third-party service providers used by the app:
 
-**Draw the Numbers** – your job is to reproduce a combination of numbers in the Pattern Lock as quickly and accurately as possible. You can have three levels of difficulty and compare your best times with your friend.
+Google Play Services & Google Play Game Services
 
-**Remember the Pattern** – in this game you have to remember a pattern that you will be shown for a short period of time. The longer you play, the more complicated it becomes. Be careful not to make any mistakes!
+AdMob
 
-Both games are fun, simple, and easy to pick up, so dive in and **[download](https://play.google.com/store/apps/details?id=thelouras.pattern.game)**  the early access version of the app!
+Google Analytics & Firebase Analytics
+
+SmartLook
+
+Data collections is used only for analytics reason and for monitoring the health of the app.
+
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+
+Security
+
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+Children’s Privacy
+
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+
+Changes to This Privacy Policy
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of 2023-03-02
+
+Contact Us
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at thelouras058@gmail.com.
