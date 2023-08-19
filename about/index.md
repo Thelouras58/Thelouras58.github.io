@@ -8,7 +8,7 @@ comments: false
     
 
 ## Experience
-#### Mobile Tech Lead at **[Threenitas](https://threenitas.com)**
+#### Mobile Team Lead at **[Threenitas](https://threenitas.com)**
 (May 2022 - now)
 
 &nbsp;&nbsp;● Participating in the hiring process
@@ -31,7 +31,7 @@ comments: false
 
 &nbsp;&nbsp;● Designed and launched the hiring and training process for mobile software engineers.
 
-#### iOS Team Lead at **[Threenitas](https://threenitas.com)**
+#### iOS Tech Lead at **[Threenitas](https://threenitas.com)**
 (Jan 2022 - May 2022)
 
 &nbsp;&nbsp;● Participating in the hiring process
