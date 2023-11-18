@@ -29,13 +29,10 @@ The app does only collect by use of third-party services that may collect inform
 
 The privacy policy of third-party service providers used by the app:
 
-Google Play Services & Google Play Game Services
-
 AdMob
 
-Google Analytics & Firebase Analytics
+Google Analytics 
 
-SmartLook
 
 Data collections is used only for analytics reason and for monitoring the health of the app.
 
