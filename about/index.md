@@ -6,4 +6,4 @@ date: 2020
 comments: false
 ---
 
-Check my LinkedIn: https://www.linkedin.com/in/thelouras/
+Check my LinkedIn: [https://www.linkedin.com/in/thelouras/](https://www.linkedin.com/in/thelouras/)
