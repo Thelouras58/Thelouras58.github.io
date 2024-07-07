@@ -24,8 +24,7 @@ The world of serious games is not only limited to the design of entertainment an
 That's why I am building **[Mobile Brain Games](https://mobilebraingames.com/)**
 A collection of mobile apps to train your brain.
 
-The **[first app](https://play.google.com/store/apps/details?id=thelouras.pattern.game)**  of the collection is live with over 10k downloads.
+The **[first app](https://play.google.com/store/apps/details?id=thelouras.pattern.game)**  of the collection is live with over 30k downloads.
 
-More apps are coming soon!
 
 By transforming science-based exercises into games, we make brain training both fun and challenging. Due to the fun gameplay, you won't even realize that you are training. Only ten minutes of brain training a day already improves the cognitive skills that you use every day. 
