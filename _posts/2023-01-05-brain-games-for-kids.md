@@ -16,6 +16,8 @@ One fun and effective way to boost your child's cognitive skills is by playing b
 Here are five brain games that are perfect for kids and can help them develop their cognitive skills:
 
 **Memory Match**: This classic game is great for improving memory and concentration. Simply create a set of cards with pictures or words on them, and have your child match the pairs. You can start with just a few cards and gradually increase the number as your child's memory improves.
+**[Dowload this simple memory Android game for kids]([https://www.mobilebraingames.com](https://play.google.com/store/apps/details?id=mobile.brain.games.simplememorygame.simple_memory_game))**
+
 
 **Simon Says**: This simple game is great for improving attention and following directions. One person, the "Simon," gives commands such as "Simon says touch your nose" and the other players must follow the command only if it begins with "Simon says."
 
@@ -33,4 +35,4 @@ Overall, brain games are a fun and effective way to help your child develop impo
 So next time you're looking for a fun and educational activity to do with your child, consider trying one of these brain games!
 
 
-And remember. Keep your mind sharp and active with our collection of challenging brain games, **[www.mobilebraingames.com](https://www.mobilebraingames.com)**
+And remember. Keep your mind sharp and active with our collection of brain games, **[www.mobilebraingames.com](https://www.mobilebraingames.com)**
