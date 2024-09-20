@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BrainQuest: Anti-stress Games Privacy Policy"
-date:   2022/08/03
+date:   2024/09/20
 excerpt: "Want to have fun while you are exercising your brain? Then this App is what you need."
 project: true
 tag:
