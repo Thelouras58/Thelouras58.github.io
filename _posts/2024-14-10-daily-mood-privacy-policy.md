@@ -18,7 +18,7 @@ This app doesn't share user data.
 Stack:
 - Flutter
 - Dart
-Libraries:
+Libraries used:
 - cupertino_icons: ^1.0.2
 - shared_preferences
 - timezone
