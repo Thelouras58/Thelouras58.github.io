@@ -10,6 +10,8 @@ tag:
 - cognitive skills
 comments: true
 ---
+
+
 Privacy Policy & Term of Service 
 Konstantinos Thelouras built the app called Daily Mood Ratin
 
