@@ -24,9 +24,7 @@ Libraries used:
 - cupertino_icons: ^1.0.2
 - shared_preferences
 - timezone
-- intl
-
-g
+- intlg
 
 Children’s Privacy
 
