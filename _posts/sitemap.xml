@@ -1,52 +1,29 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {% for post in site.posts %}
+    <url>
+        <loc>{{ site.url }}{{ post.url }}</loc>
+        {% if post.lastmod == null %}
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+        {% else %}
+        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+        {% endif %}
 
+        {% if post.sitemap.changefreq == null %}
+        <changefreq>always</changefreq>
+        {% else %}
+        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
+        {% endif %}
 
-<url>
-  <loc>https://thelouras.gr/</loc>
-  <lastmod>2022-04-10T12:53:23+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://thelouras.gr/about/</loc>
-  <lastmod>2022-04-10T12:53:23+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thelouras.gr/posts/</loc>
-  <lastmod>2022-04-10T12:53:23+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thelouras.gr/tags/</loc>
-  <lastmod>2022-04-10T12:53:23+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thelouras.gr/projects/</loc>
-  <lastmod>2022-04-10T12:53:23+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thelouras.gr/mci_rehab/</loc>
-  <lastmod>2022-04-10T12:53:23+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://thelouras.gr/pattern-lock-brain-games/</loc>
-  <lastmod>2022-04-10T12:53:23+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://thelouras.gr/diploma-thesis/</loc>
-  <lastmod>2022-04-10T12:53:23+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+        {% if post.sitemap.priority == null %}
+        <priority>0.5</priority>
+        {% else %}
+        <priority>{{ post.sitemap.priority }}</priority>
+        {% endif %}
 
-
+    </url>
+    {% endfor %}
 </urlset>
