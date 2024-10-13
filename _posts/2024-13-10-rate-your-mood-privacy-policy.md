@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Daily Mood Rating Privacy Policy"
-date:   2024/10/14
+date:   2022/10/14
 excerpt:  "Rate your mood every day!"
 projects: true
 tag:
@@ -10,6 +10,8 @@ tag:
 - cognitive skills
 comments: true
 ---
+Privacy Policy & Term of Service 
+Konstantinos Thelouras built the app called Daily Mood Ratin
 
 No analytics, so no data collection.
 This app doesn't share user data.
@@ -23,8 +25,7 @@ Libraries used:
 - timezone
 - intl
 
-Privacy Policy & Term of Service 
-Konstantinos Thelouras built the app called Daily Mood Rating
+g
 
 Children’s Privacy
 
