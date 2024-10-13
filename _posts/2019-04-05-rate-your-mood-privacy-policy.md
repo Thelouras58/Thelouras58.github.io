@@ -2,7 +2,8 @@
 layout: post
 title:  "Daily Mood Rating Privacy Policy"
 date:   2024/10/14
-excerpt:
+excerpt:  "Rate your mood every day!"
+projects: true
 tag:
 - serious games
 - mobile brain games
