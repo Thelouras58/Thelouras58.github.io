@@ -3,7 +3,6 @@ layout: post
 title:  "Pattern Lock Brain Games Privacy Policy"
 date:   2022/04/10
 excerpt: "Want to have fun while you are exercising your brain? Then this App is what you need."
-project: true
 tag:
 - serious games
 - cognitive skills

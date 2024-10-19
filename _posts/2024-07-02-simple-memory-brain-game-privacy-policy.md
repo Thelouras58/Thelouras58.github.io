@@ -3,7 +3,6 @@ layout: post
 title:  "Simple Memory Brain Game Privacy Policy"
 date:   2022/07/02
 excerpt: "Want to have fun while you are exercising your brain? Then this App is what you need."
-project: true
 tag:
 - serious games
 - cognitive skills
