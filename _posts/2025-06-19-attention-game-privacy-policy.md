@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Word Sprint: Brain Game  Privacy Policy"
-date:   2022/11/08
+title:  "Quick Tap: Attention Trainer Privacy Policy"
+date:   2022/12/09
 excerpt:  "Train your brain every day!"
 tag:
 - serious games
@@ -11,7 +11,7 @@ comments: true
 ---
 
 Privacy Policy & Term of Service 
-Konstantinos Thelouras built the app called Word Sprint: Brain Game.
+Konstantinos Thelouras built the app called Quick Tap: Attention Trainer
 
 No analytics, so no data collection.
 This app doesn't share user data.
@@ -26,7 +26,7 @@ Libraries used:
 
 Children’s Privacy
 
-These Services do not address anyone under the age of 13.
+These Services do not address anyone under the age of 6.
 
 Changes to This Privacy Policy
 
