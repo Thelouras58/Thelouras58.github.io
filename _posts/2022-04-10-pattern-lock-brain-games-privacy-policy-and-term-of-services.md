@@ -36,6 +36,25 @@ Data collection is used only for analytics reasons and for monitoring the health
 
 I want to inform you that whenever you use my Service, in the case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
+Crash Reporting and Error Monitoring
+To help us maintain and improve the stability and performance of Pattern Lock Brain Games, we use Sentry, a third-party service, for crash reporting and error monitoring.
+What Data Is Collected
+When a crash or error occurs, the following technical information may be collected and sent to Sentry:
+	•	Error messages and stack traces related to the crash or exception
+	•	Information about the app’s state and usage immediately before the error
+	•	Date and time of the error
+	•	Device information, including operating system and version, app version, and device model
+	•	Device status such as battery level, charging state, memory usage, connection type (Wi-Fi/mobile data), storage space, preferred language, device orientation, screen resolution, and time zone
+	•	An identifier to group errors from the same device
+	•	IP address at the time the connection is established (if collected, but Sentry allows configuration to avoid storing IP addresses)
+
+We do not intentionally collect personal information such as names, email addresses, or user-generated content in crash reports. Any accidental transmission of personal information is subject to data scrubbing and is not used for any other purpose
+
+This data is used exclusively for diagnosing and fixing technical issues, monitoring app performance, and improving user experience. It is not used for marketing, profiling, or tracking individual users
+
+Crash and error data is processed by Sentry, which acts as our data processor. Sentry may store this data on servers located in the European Union or the United States, depending on our configuration. Sentry complies with applicable data protection regulations, including GDPR, and provides data processing agreements and privacy safeguards.
+For more information, please refer to Sentry’s Privacy Policy.
+
 Security
 
 I value your trust in providing us with your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
