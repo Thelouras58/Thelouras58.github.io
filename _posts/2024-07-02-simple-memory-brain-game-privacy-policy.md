@@ -56,4 +56,4 @@ This policy is effective as of 2024-07-02
 
 Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at thelouras058@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at hello@mobilebraingames.com 
