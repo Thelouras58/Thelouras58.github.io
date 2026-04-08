@@ -32,7 +32,6 @@ The application utilizes third-party services that may collect information used 
 Below are links to the privacy policies of third-party service providers used by the application:
 
 * **Google Analytics** (for Firebase)
-* **Sentry** (for crash reporting)
 * **RevenueCat** (for in-app purchase management)
 
 ### In-App Purchases and Subscription Management (RevenueCat)
@@ -56,10 +55,6 @@ We utilize **Google Analytics** to understand app usage, monitor app health, and
 
 I want to inform you that whenever you use my Service, in the case of an error in the app, I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-### Crash Reporting and Error Monitoring (Sentry)
-
-To help us maintain and improve the stability and performance of Mobile Brain Games Premium, we use **Sentry**, a third-party service, for crash reporting and error monitoring.
-
 **What Data Is Collected:**
 When a crash or error occurs, the following technical information may be collected and sent to Sentry:
 
@@ -81,9 +76,6 @@ Crash and error data is processed by Sentry, which acts as our data processor. S
 
 I value your trust in providing us with information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
-## Links to Other Sites
-
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 ## Children’s Privacy
 
