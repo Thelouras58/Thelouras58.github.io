@@ -77,7 +77,7 @@ We employ industry‑standard encryption for data in transit (HTTPS/TLS) and rel
 
 ### 7. Children’s Privacy  
 
-The Service is **not directed at children under 13** years of age, and we do not knowingly collect personal information from anyone in that age group. If you become aware that a child under 13 has inadvertently provided us with personal data, please contact us so we can delete it promptly.
+The Service is **not directed at children under 6** years of age, and we do not knowingly collect personal information from anyone in that age group. If you become aware that a child under 6 has inadvertently provided us with personal data, please contact us so we can delete it promptly.
 
 ### 8. Changes to This Privacy Policy  
 
