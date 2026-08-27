@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quick Tap: Attention Trainer Privacy Policy"
+title:  "Brain Game: Focus & Reaction Privacy Policy"
 date:   2022/12/09
 excerpt:  "Train your brain every day!"
 tag:
