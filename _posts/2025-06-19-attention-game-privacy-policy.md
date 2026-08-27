@@ -11,7 +11,7 @@ comments: true
 ---
 
 Privacy Policy & Term of Service 
-Konstantinos Thelouras built the app called Quick Tap: Attention Trainer
+Konstantinos Thelouras built the app called Brain Game: Focus and Reaction!
 
 No analytics, so no data collection.
 This app doesn't share user data.
