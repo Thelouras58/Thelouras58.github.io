@@ -14,7 +14,7 @@ comments: true
 
 **Effective date: August 28, 2026**
 
-Brain Trivia is developed by Konstantinos Thelouras ("we", "us", or "our"). This Privacy Policy explains how information is handled when you use the Brain Trivia mobile application (the "App").
+Neuroscience Quiz - Trivia is developed by Konstantinos Thelouras ("we", "us", or "our"). This Privacy Policy explains how information is handled when you use the Brain Trivia mobile application (the "App").
 
 ## Information We Collect
 
